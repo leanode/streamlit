@@ -1,49 +1,75 @@
 import streamlit as st
-import openai
-from google.cloud import bigquery
 import pandas as pd
+import openai
 
-# -- Setup --
-st.title("🧠 Ask Public Data (AI + BigQuery)")
-st.write("Type a natural language question. I’ll turn it into SQL and run it on public datasets.")
+# 🔐 Load OpenAI API key
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# -- User Input --
-user_question = st.text_input("🔍 Ask a question (e.g. What are the top 10 complaint types in Austin 311?):")
+# 📄 Load preloaded CSV
+CSV_PATH = "data/sample.csv"  # Update if needed
+try:
+    df = pd.read_csv(CSV_PATH)
+except FileNotFoundError:
+    st.error(f"❌ Could not find file at {CSV_PATH}. Please upload it to your repo.")
+    st.stop()
+
+# 🧠 App Title and Instructions
+st.title("🧠 AI-Powered Data Insights")
+st.subheader("Analyze a Preloaded Dataset Using OpenAI")
+
+st.markdown("""
+Welcome! This app uses **OpenAI** to generate plain-English insights from a preloaded CSV dataset.
+
+### 📋 How to Use:
+1. **Review the dataset preview** below
+2. **Click an example question** or ask your own
+3. **Wait a few seconds** while OpenAI analyzes the data and returns insights
+
+> The AI analyzes only the **first 100 rows** to stay within processing limits.
+""")
+
+# 🧾 Show data preview
+st.markdown("### 🧾 Data Preview")
+st.dataframe(df.head())
+
+# 💡 Example questions
+example_questions = [
+    "What are the most frequent values in each column?",
+    "Are there any missing values or unusual data points?",
+    "What trends or patterns can you find?",
+    "Which column seems to have the most variation?",
+    "Summarize this dataset for me.",
+]
+
+with st.expander("💡 Click to use an example question"):
+    selected_example = st.radio("Try an example:", example_questions, index=-1)
+
+# Use example or custom input
+user_question = st.text_input("❓ Ask a question about the data:", value=selected_example or "")
 
 if user_question:
-    # -- Step 1: Convert to SQL using OpenAI --
-    with st.spinner("Asking OpenAI to write SQL..."):
-        prompt = f"""
-        Write a BigQuery Standard SQL query that answers the question:
-        "{user_question}"
-        Only use public datasets in the bigquery-public-data project.
-        Return only the SQL, no explanations.
-        """
+    with st.spinner("🧠 Analyzing with OpenAI..."):
 
-        openai.api_key = st.secrets["OPENAI_API_KEY"]
+        preview_csv = df.head(100).to_csv(index=False)
+
+        prompt = f"""
+You are a helpful data analyst. Analyze the following data:
+
+{preview_csv}
+
+Question: {user_question}
+Answer in clear, plain English. Use column names where relevant.
+"""
 
         response = openai.ChatCompletion.create(
             model="gpt-4",
             messages=[
-                {"role": "system", "content": "You are a data analyst."},
+                {"role": "system", "content": "You're a helpful data analyst."},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0
+            temperature=0.3
         )
 
-        sql = response['choices'][0]['message']['content'].strip("` ")
-        st.code(sql, language="sql")
-
-    # -- Step 2: Query BigQuery --
-    with st.spinner("Running query on BigQuery..."):
-        client = bigquery.Client()
-        try:
-            df = client.query(sql).to_dataframe()
-            st.success("✅ Query succeeded!")
-            st.dataframe(df)
-
-            # -- Optional Chart --
-            if len(df.columns) >= 2:
-                st.bar_chart(df.set_index(df.columns[0]))
-        except Exception as e:
-            st.error(f"BigQuery error: {e}")
+        answer = response['choices'][0]['message']['content']
+        st.markdown("### 💡 Insight:")
+        st.write(answer)
