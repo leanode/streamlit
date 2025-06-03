@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import openai
 
+import os
+st.write("📁 Current working directory:", os.getcwd())
+st.write("📂 Files in this directory:", os.listdir())
+
 # 🔐 Load OpenAI API key
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
