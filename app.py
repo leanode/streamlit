@@ -66,7 +66,7 @@ Answer in clear, plain English. Use column names where relevant.
 
         try:
             response = client.chat.completions.create(
-                model="gpt-4o",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": "You're a helpful data analyst."},
                     {"role": "user", "content": prompt}
