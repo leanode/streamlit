@@ -6,7 +6,7 @@ import openai
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # 📄 Load preloaded CSV
-CSV_PATH = "sales_data_sample.csv"  # Update if needed
+CSV_PATH = "data/sales_data_superstore.csv"  # Update if needed
 try:
     df = pd.read_csv(CSV_PATH)
 except FileNotFoundError:
