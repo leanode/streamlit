@@ -1,0 +1,2824 @@
+QUANTITYORDERED,PRICEEACH,ORDERDATE,MONTH_ID,YEAR_ID,CUSTOMERNAME
+30,95.7,2/24/2003 0:00,2,2003,Land of Toys Inc.
+34,81.35,5/7/2003 0:00,5,2003,Reims Collectables
+41,94.74,7/1/2003 0:00,7,2003,Lyon Souveniers
+45,83.26,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+49,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+36,96.66,10/28/2003 0:00,10,2003,Technics Stores Inc.
+29,86.13,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+48,100.0,11/18/2003 0:00,11,2003,Herkku Gifts
+22,98.57,12/1/2003 0:00,12,2003,Mini Wheels Co.
+41,100.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+37,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+23,100.0,4/5/2004 0:00,4,2004,Vitachrome Inc.
+28,100.0,5/18/2004 0:00,5,2004,Tekni Collectables Inc.
+34,100.0,6/28/2004 0:00,6,2004,Gift Depot Inc.
+45,92.83,7/23/2004 0:00,7,2004,La Rochelle Gifts
+36,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+23,100.0,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+41,100.0,10/15/2004 0:00,10,2004,Baane Mini Imports
+46,94.74,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+42,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+41,100.0,11/24/2004 0:00,11,2004,Salzburg Collectables
+20,72.55,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+21,34.91,2/3/2005 0:00,2,2005,La Rochelle Gifts
+42,76.36,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+24,100.0,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+66,100.0,5/13/2005 0:00,5,2005,Euro Shopping Channel
+26,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+29,100.0,3/24/2003 0:00,3,2003,"Volvo Model Replicas, Co"
+38,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+37,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+45,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+21,100.0,10/20/2003 0:00,10,2003,Classic Legends Inc.
+34,100.0,11/6/2003 0:00,11,2003,"Australian Gift Network, Co"
+23,100.0,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+42,100.0,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+47,100.0,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+35,100.0,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+29,100.0,3/10/2004 0:00,3,2004,Cambridge Collectables Co.
+34,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+32,100.0,6/15/2004 0:00,6,2004,"Tokyo Collectables, Ltd"
+21,100.0,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+34,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+37,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+47,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+48,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+40,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+26,100.0,11/18/2004 0:00,11,2004,Mini Wheels Co.
+30,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+32,100.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+41,100.0,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+36,100.0,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+24,100.0,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+23,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+50,100.0,5/31/2005 0:00,5,2005,Euro Shopping Channel
+39,99.91,2/24/2003 0:00,2,2003,Land of Toys Inc.
+29,96.34,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+27,100.0,7/1/2003 0:00,7,2003,Lyon Souveniers
+37,100.0,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+37,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+27,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+42,100.0,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+38,96.34,11/18/2003 0:00,11,2003,Herkku Gifts
+24,100.0,12/1/2003 0:00,12,2003,Mini Wheels Co.
+23,100.0,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+47,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+22,100.0,4/3/2004 0:00,4,2004,Motor Mint Distributors Inc.
+44,100.0,5/18/2004 0:00,5,2004,Tekni Collectables Inc.
+40,100.0,6/28/2004 0:00,6,2004,Gift Depot Inc.
+22,100.0,7/23/2004 0:00,7,2004,La Rochelle Gifts
+47,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+39,96.34,9/27/2004 0:00,9,2004,Atelier graphique
+34,100.0,10/15/2004 0:00,10,2004,Mini Classics
+45,100.0,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+20,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+40,68.92,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+26,51.15,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+39,100.0,2/2/2005 0:00,2,2005,"Australian Gift Network, Co"
+50,44.51,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+45,100.0,4/7/2005 0:00,4,2005,Auto Canal Petit
+45,100.0,5/13/2005 0:00,5,2005,Euro Shopping Channel
+27,100.0,2/24/2003 0:00,2,2003,Land of Toys Inc.
+46,100.0,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+31,100.0,7/1/2003 0:00,7,2003,Lyon Souveniers
+33,100.0,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+22,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+20,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+41,100.0,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+45,100.0,11/18/2003 0:00,11,2003,Herkku Gifts
+49,100.0,12/1/2003 0:00,12,2003,Mini Wheels Co.
+34,100.0,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+49,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+39,100.0,4/5/2004 0:00,4,2004,Vitachrome Inc.
+43,100.0,5/18/2004 0:00,5,2004,Tekni Collectables Inc.
+41,100.0,6/28/2004 0:00,6,2004,Gift Depot Inc.
+36,100.0,7/23/2004 0:00,7,2004,La Rochelle Gifts
+27,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+29,100.0,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+20,100.0,10/15/2004 0:00,10,2004,Mini Classics
+37,100.0,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+26,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+39,76.67,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+22,100.0,1/5/2005 0:00,1,2005,Technics Stores Inc.
+22,100.0,2/2/2005 0:00,2,2005,"Australian Gift Network, Co"
+21,86.77,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+66,100.0,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+56,100.0,5/13/2005 0:00,5,2005,Euro Shopping Channel
+50,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+46,100.0,4/28/2003 0:00,4,2003,Salzburg Collectables
+33,100.0,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+49,100.0,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+32,100.0,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+44,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+24,100.0,11/8/2003 0:00,11,2003,Alpha Cognac
+26,100.0,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+45,100.0,11/26/2003 0:00,11,2003,Enaco Distributors
+39,100.0,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+49,100.0,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+20,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+27,100.0,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+30,100.0,7/21/2004 0:00,7,2004,Petit Auto
+25,100.0,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+24,100.0,9/10/2004 0:00,9,2004,Gifts4AllAges.com
+22,100.0,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+33,100.0,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+47,64.93,11/5/2004 0:00,11,2004,Baane Mini Imports
+25,48.05,11/21/2004 0:00,11,2004,Classic Legends Inc.
+26,75.47,12/2/2004 0:00,12,2004,Euro Shopping Channel
+48,54.68,12/15/2004 0:00,12,2004,Reims Collectables
+39,100.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+34,100.0,2/23/2005 0:00,2,2005,Corporate Gift Ideas Co.
+32,100.0,3/17/2005 0:00,3,2005,Lyon Souveniers
+64,100.0,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+19,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+42,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+31,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+22,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+26,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+20,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+21,100.0,10/21/2003 0:00,10,2003,Mini Auto Werke
+33,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+28,100.0,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+26,100.0,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+31,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+48,100.0,2/4/2004 0:00,2,2004,Handji Gifts& Co
+50,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+28,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+26,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+32,100.0,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+44,100.0,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+30,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+38,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+40,100.0,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+46,61.99,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+26,100.0,11/19/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+27,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+43,100.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+35,65.63,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+37,100.0,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+37,46.9,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+27,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+38,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+33,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+42,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+42,100.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+48,100.0,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+41,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+30,100.0,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+27,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+21,100.0,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+20,100.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+41,100.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+27,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+28,100.0,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+24,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+44,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+50,100.0,8/2/2004 0:00,8,2004,Online Mini Collectables
+21,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+33,100.0,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+33,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+31,100.0,11/3/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+41,71.47,11/15/2004 0:00,11,2004,Land of Toys Inc.
+45,79.65,11/24/2004 0:00,11,2004,Salzburg Collectables
+33,85.39,1/6/2005 0:00,1,2005,Suominen Souveniers
+45,76.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+26,99.04,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+12,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+41,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+33,100.0,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+46,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+33,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+20,100.0,9/28/2003 0:00,9,2003,Euro Shopping Channel
+44,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+33,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+21,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+47,100.0,11/26/2003 0:00,11,2003,Super Scale Inc.
+46,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+32,100.0,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+42,100.0,3/19/2004 0:00,3,2004,CAF Imports
+44,100.0,5/5/2004 0:00,5,2004,Suominen Souveniers
+35,100.0,7/20/2004 0:00,7,2004,Diecast Classics Inc.
+41,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+46,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+31,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+38,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+42,64.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+33,57.22,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+48,52.36,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+42,100.0,12/15/2004 0:00,12,2004,Reims Collectables
+32,100.0,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+34,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+33,69.12,3/17/2005 0:00,3,2005,Lyon Souveniers
+36,100.0,5/5/2005 0:00,5,2005,Gift Depot Inc.
+27,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+21,100.0,3/26/2003 0:00,3,2003,Mini Gifts Distributors Ltd.
+21,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+38,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+30,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+49,100.0,10/21/2003 0:00,10,2003,Mini Auto Werke
+43,100.0,11/6/2003 0:00,11,2003,"Australian Gift Network, Co"
+41,100.0,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+38,100.0,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+28,100.0,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+43,100.0,2/2/2004 0:00,2,2004,Auto Assoc. & Cie.
+25,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+38,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+41,100.0,6/15/2004 0:00,6,2004,"Tokyo Collectables, Ltd"
+28,100.0,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+25,100.0,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+41,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+39,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+21,100.0,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+27,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+33,99.21,11/18/2004 0:00,11,2004,Mini Wheels Co.
+29,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+49,100.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+49,100.0,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+20,100.0,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+39,63.2,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+40,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+49,100.0,5/31/2005 0:00,5,2005,Euro Shopping Channel
+21,100.0,2/24/2003 0:00,2,2003,Land of Toys Inc.
+50,100.0,5/7/2003 0:00,5,2003,Reims Collectables
+20,100.0,7/1/2003 0:00,7,2003,Lyon Souveniers
+49,100.0,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+38,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+35,100.0,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+40,100.0,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+28,100.0,11/18/2003 0:00,11,2003,Toys4GrownUps.com
+25,100.0,12/1/2003 0:00,12,2003,Mini Wheels Co.
+36,100.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+43,100.0,2/21/2004 0:00,2,2004,Daedalus Designs Imports
+32,100.0,4/5/2004 0:00,4,2004,Vitachrome Inc.
+46,100.0,5/18/2004 0:00,5,2004,Tekni Collectables Inc.
+48,100.0,6/28/2004 0:00,6,2004,Gift Depot Inc.
+43,100.0,8/2/2004 0:00,8,2004,Online Mini Collectables
+49,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+24,100.0,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+26,100.0,10/15/2004 0:00,10,2004,Baane Mini Imports
+30,100.0,11/3/2004 0:00,11,2004,Microscale Inc.
+24,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+55,100.0,11/24/2004 0:00,11,2004,Salzburg Collectables
+22,100.0,1/5/2005 0:00,1,2005,Technics Stores Inc.
+49,78.92,2/3/2005 0:00,2,2005,La Rochelle Gifts
+44,100.0,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+66,100.0,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+21,100.0,5/13/2005 0:00,5,2005,Euro Shopping Channel
+34,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+43,100.0,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+46,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+33,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+42,100.0,9/28/2003 0:00,9,2003,Euro Shopping Channel
+34,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+47,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+33,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+24,100.0,11/26/2003 0:00,11,2003,Super Scale Inc.
+26,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+30,100.0,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+43,100.0,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+25,100.0,5/5/2004 0:00,5,2004,Suominen Souveniers
+27,100.0,7/20/2004 0:00,7,2004,Diecast Classics Inc.
+27,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+24,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+34,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+46,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+27,54.33,11/5/2004 0:00,11,2004,Vitachrome Inc.
+33,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+47,100.0,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+49,55.34,12/10/2004 0:00,12,2004,Euro Shopping Channel
+40,100.0,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+37,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+47,100.0,5/5/2005 0:00,5,2005,Gift Depot Inc.
+45,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+37,99.82,5/8/2003 0:00,5,2003,Marseille Mini Autos
+48,100.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+31,100.0,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+46,100.0,10/11/2003 0:00,10,2003,"Men 'R' US Retailers, Ltd."
+47,100.0,11/4/2003 0:00,11,2003,Mini Auto Werke
+28,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+40,100.0,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+20,100.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+39,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+25,99.82,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+29,100.0,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+22,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+22,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+47,100.0,8/2/2004 0:00,8,2004,Online Mini Collectables
+45,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+29,100.0,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+24,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+35,100.0,11/3/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+46,83.63,11/15/2004 0:00,11,2004,Land of Toys Inc.
+44,95.93,11/24/2004 0:00,11,2004,Salzburg Collectables
+34,96.73,1/6/2005 0:00,1,2005,Suominen Souveniers
+35,100.0,2/8/2005 0:00,2,2005,Boards & Toys Co.
+25,72.38,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+10,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+29,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+39,100.0,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+42,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+46,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+49,100.0,9/28/2003 0:00,9,2003,Euro Shopping Channel
+27,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+50,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+43,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+38,100.0,11/26/2003 0:00,11,2003,Super Scale Inc.
+20,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+27,100.0,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+49,100.0,3/19/2004 0:00,3,2004,CAF Imports
+27,100.0,5/5/2004 0:00,5,2004,Suominen Souveniers
+39,100.0,7/20/2004 0:00,7,2004,Diecast Classics Inc.
+24,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+45,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+20,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+36,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+24,100.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+49,63.38,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+26,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+49,62.09,12/15/2004 0:00,12,2004,Reims Collectables
+34,100.0,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+34,95.35,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+33,100.0,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+22,100.0,5/5/2005 0:00,5,2005,Gift Depot Inc.
+39,89.38,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+32,63.84,5/8/2003 0:00,5,2003,Marseille Mini Autos
+24,75.01,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+21,63.84,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+24,73.42,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+36,63.84,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+20,81.4,11/12/2003 0:00,11,2003,Herkku Gifts
+30,64.64,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+44,82.99,12/2/2003 0:00,12,2003,Euro Shopping Channel
+28,92.57,1/15/2004 0:00,1,2004,Auto Canal Petit
+37,77.41,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+20,74.21,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+25,90.17,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+35,76.61,7/6/2004 0:00,7,2004,L'ordine Souveniers
+38,83.79,8/2/2004 0:00,8,2004,Online Mini Collectables
+41,69.43,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+22,76.61,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+49,81.4,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+38,73.42,11/3/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+33,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+36,93.56,11/24/2004 0:00,11,2004,Salzburg Collectables
+34,81.62,1/6/2005 0:00,1,2005,Suominen Souveniers
+24,67.83,2/9/2005 0:00,2,2005,"Toys of Finland, Co."
+36,70.26,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+34,90.17,5/17/2005 0:00,5,2005,Salzburg Collectables
+41,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+46,100.0,4/4/2003 0:00,4,2003,Classic Legends Inc.
+24,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+21,100.0,8/1/2003 0:00,8,2003,Suominen Souveniers
+24,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+48,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+26,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+37,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+49,100.0,11/25/2003 0:00,11,2003,Mini Classics
+34,99.54,12/9/2003 0:00,12,2003,Diecast Collectables
+48,100.0,2/10/2004 0:00,2,2004,Signal Collectibles Ltd.
+36,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+46,100.0,5/5/2004 0:00,5,2004,Euro Shopping Channel
+46,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+31,97.17,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+41,100.0,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+21,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+38,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+45,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+26,58.38,11/5/2004 0:00,11,2004,Vitachrome Inc.
+38,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+48,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+42,64.16,12/10/2004 0:00,12,2004,Euro Shopping Channel
+49,35.71,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+32,66.58,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+54,100.0,5/3/2005 0:00,5,2005,Euro Shopping Channel
+33,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+36,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+20,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+29,97.89,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+33,97.89,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+50,100.0,10/11/2003 0:00,10,2003,"Men 'R' US Retailers, Ltd."
+41,100.0,11/4/2003 0:00,11,2003,Mini Auto Werke
+36,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+27,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+47,100.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+33,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+21,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+21,93.28,4/12/2004 0:00,4,2004,"Oulu Toy Supplies, Inc."
+41,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+40,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+28,100.0,8/4/2004 0:00,8,2004,"Dragon Souveniers, Ltd."
+23,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+23,100.0,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+25,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+24,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+39,64.74,11/15/2004 0:00,11,2004,Land of Toys Inc.
+55,75.2,11/24/2004 0:00,11,2004,Salzburg Collectables
+46,88.45,1/6/2005 0:00,1,2005,Suominen Souveniers
+50,100.0,2/9/2005 0:00,2,2005,"Toys of Finland, Co."
+47,100.0,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+97,93.28,4/14/2005 0:00,4,2005,Mini Caravy
+32,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+35,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+49,100.0,3/26/2003 0:00,3,2003,Mini Gifts Distributors Ltd.
+38,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+32,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+34,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+36,99.17,10/21/2003 0:00,10,2003,Mini Auto Werke
+48,93.34,11/6/2003 0:00,11,2003,"Australian Gift Network, Co"
+21,96.84,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+21,93.34,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+34,100.0,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+46,100.0,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+32,100.0,3/10/2004 0:00,3,2004,Cambridge Collectables Co.
+29,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+41,100.0,6/15/2004 0:00,6,2004,"Tokyo Collectables, Ltd"
+43,96.84,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+24,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+41,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+46,98.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+32,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+22,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+29,40.25,11/18/2004 0:00,11,2004,Mini Wheels Co.
+42,49.6,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+39,98.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+27,100.0,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+48,98.0,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+29,85.1,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+27,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+54,100.0,5/31/2005 0:00,5,2005,Euro Shopping Channel
+26,100.0,3/10/2003 0:00,3,2003,Motor Mint Distributors Inc.
+34,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+25,100.0,7/4/2003 0:00,7,2003,Alpha Cognac
+23,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+28,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+35,100.0,11/5/2003 0:00,11,2003,Quebec Home Shopping Network
+44,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+22,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+42,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+29,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+32,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+41,100.0,4/13/2004 0:00,4,2004,Osaka Souveniers Co.
+26,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+21,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+34,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+41,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+37,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+37,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+41,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+46,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+40,100.0,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+43,97.6,12/9/2004 0:00,12,2004,Lyon Souveniers
+30,87.06,1/7/2005 0:00,1,2005,Mini Creations Ltd.
+35,100.0,2/9/2005 0:00,2,2005,"Toys of Finland, Co."
+36,93.77,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+61,100.0,4/15/2005 0:00,4,2005,Danish Wholesale Imports
+38,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+39,100.0,1/10/2003 0:00,1,2003,Vitachrome Inc.
+33,99.66,3/25/2003 0:00,3,2003,Mini Wheels Co.
+32,100.0,5/21/2003 0:00,5,2003,"Australian Collectors, Co."
+31,100.0,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+50,100.0,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+48,91.44,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+43,100.0,11/5/2003 0:00,11,2003,Rovelli Gifts
+25,87.33,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+28,100.0,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+36,100.0,12/3/2003 0:00,12,2003,Euro Shopping Channel
+27,89.38,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+25,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+40,100.0,4/29/2004 0:00,4,2004,Euro Shopping Channel
+34,95.55,6/8/2004 0:00,6,2004,Danish Wholesale Imports
+50,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+38,100.0,9/3/2004 0:00,9,2004,Herkku Gifts
+37,95.55,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+43,89.38,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+43,86.3,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+46,95.13,11/17/2004 0:00,11,2004,"AV Stores, Co."
+42,36.11,11/29/2004 0:00,11,2004,Signal Gift Stores
+50,50.18,12/9/2004 0:00,12,2004,Lyon Souveniers
+44,100.0,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+27,93.16,2/16/2005 0:00,2,2005,Euro Shopping Channel
+35,100.0,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+51,95.55,5/30/2005 0:00,5,2005,Diecast Classics Inc.
+41,50.14,1/10/2003 0:00,1,2003,Vitachrome Inc.
+48,49.06,3/25/2003 0:00,3,2003,Mini Wheels Co.
+42,54.99,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+49,43.13,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+30,58.22,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+45,51.21,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+48,44.21,11/5/2003 0:00,11,2003,Rovelli Gifts
+32,54.45,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+46,53.37,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+48,63.61,12/3/2003 0:00,12,2003,Euro Shopping Channel
+33,43.13,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+31,48.52,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+20,58.22,4/29/2004 0:00,4,2004,Euro Shopping Channel
+29,51.75,6/8/2004 0:00,6,2004,Danish Wholesale Imports
+27,57.68,8/17/2004 0:00,8,2004,Amica Models & Co.
+24,56.07,9/3/2004 0:00,9,2004,Herkku Gifts
+37,48.52,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+25,44.21,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+41,57.68,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+27,89.89,11/17/2004 0:00,11,2004,"AV Stores, Co."
+21,58.95,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+22,72.41,12/9/2004 0:00,12,2004,Lyon Souveniers
+32,98.63,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+25,52.83,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+42,100.0,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+25,51.75,5/30/2005 0:00,5,2005,Diecast Classics Inc.
+37,100.0,3/18/2003 0:00,3,2003,"AV Stores, Co."
+26,100.0,5/20/2003 0:00,5,2003,Atelier graphique
+44,99.55,7/10/2003 0:00,7,2003,Reims Collectables
+47,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+43,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+42,100.0,11/5/2003 0:00,11,2003,Gift Depot Inc.
+42,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+29,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+40,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+38,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+38,100.0,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+21,100.0,4/13/2004 0:00,4,2004,Mini Caravy
+24,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+36,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+23,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+20,100.0,9/1/2004 0:00,9,2004,Handji Gifts& Co
+32,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+29,100.0,10/16/2004 0:00,10,2004,Euro Shopping Channel
+44,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+44,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+36,100.0,11/24/2004 0:00,11,2004,Reims Collectables
+49,56.3,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+34,42.64,2/10/2005 0:00,2,2005,Euro Shopping Channel
+59,100.0,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+37,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+36,100.0,2/17/2003 0:00,2,2003,Rovelli Gifts
+43,100.0,4/28/2003 0:00,4,2003,Salzburg Collectables
+21,100.0,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+32,100.0,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+38,100.0,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+43,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+42,100.0,11/8/2003 0:00,11,2003,Alpha Cognac
+32,100.0,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+42,100.0,11/27/2003 0:00,11,2003,Cruz & Sons Co.
+31,100.0,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+49,100.0,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+45,100.0,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+49,100.0,6/24/2004 0:00,6,2004,Euro Shopping Channel
+41,100.0,7/21/2004 0:00,7,2004,Collectables For Less Inc.
+45,100.0,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+36,100.0,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+39,100.0,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+27,100.0,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+25,100.0,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+41,100.0,11/22/2004 0:00,11,2004,Royale Belge
+39,99.52,12/3/2004 0:00,12,2004,"Stylish Desk Decors, Co."
+28,57.55,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+25,54.57,3/1/2005 0:00,3,2005,Euro Shopping Channel
+33,100.0,3/30/2005 0:00,3,2005,Reims Collectables
+34,100.0,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+24,100.0,5/10/2005 0:00,5,2005,L'ordine Souveniers
+30,100.0,1/6/2003 0:00,1,2003,Online Diecast Creations Co.
+42,100.0,3/18/2003 0:00,3,2003,"AV Stores, Co."
+21,100.0,5/21/2003 0:00,5,2003,Signal Gift Stores
+34,100.0,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+29,100.0,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+24,100.0,11/5/2003 0:00,11,2003,Rovelli Gifts
+44,100.0,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+21,100.0,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+33,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+30,100.0,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+26,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+41,100.0,4/13/2004 0:00,4,2004,Mini Caravy
+26,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+32,100.0,9/1/2004 0:00,9,2004,Handji Gifts& Co
+43,100.0,10/6/2003 0:00,10,2003,"UK Collectables, Ltd."
+48,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+44,74.04,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+45,100.0,11/25/2004 0:00,11,2004,Marseille Mini Autos
+37,100.0,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+39,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+76,100.0,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+37,100.0,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+38,82.39,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+43,72.38,5/8/2003 0:00,5,2003,Marseille Mini Autos
+48,79.31,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+26,82.39,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+38,88.55,10/11/2003 0:00,10,2003,"Men 'R' US Retailers, Ltd."
+20,63.14,11/4/2003 0:00,11,2003,Mini Auto Werke
+22,73.92,11/12/2003 0:00,11,2003,Herkku Gifts
+45,90.86,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+45,85.47,12/2/2003 0:00,12,2003,Euro Shopping Channel
+20,66.99,1/16/2004 0:00,1,2004,Euro Shopping Channel
+47,64.68,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+46,73.92,4/12/2004 0:00,4,2004,"Oulu Toy Supplies, Inc."
+23,83.93,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+33,74.69,7/6/2004 0:00,7,2004,L'ordine Souveniers
+29,90.86,8/6/2004 0:00,8,2004,Signal Gift Stores
+44,82.39,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+41,92.4,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+20,91.63,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+37,78.54,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+29,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+55,65.45,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+22,100.0,1/6/2005 0:00,1,2005,Suominen Souveniers
+31,67.76,2/9/2005 0:00,2,2005,"Toys of Finland, Co."
+49,79.22,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+61,73.92,4/14/2005 0:00,4,2005,Mini Caravy
+39,83.93,5/17/2005 0:00,5,2005,Salzburg Collectables
+38,100.0,3/10/2003 0:00,3,2003,Motor Mint Distributors Inc.
+31,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+36,100.0,7/4/2003 0:00,7,2003,Alpha Cognac
+25,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+48,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+35,100.0,11/5/2003 0:00,11,2003,Quebec Home Shopping Network
+21,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+47,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+38,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+41,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+24,100.0,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+37,100.0,4/13/2004 0:00,4,2004,Osaka Souveniers Co.
+33,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+49,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+29,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+24,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+47,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+24,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+25,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+30,32.47,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+22,100.0,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+27,64.69,12/9/2004 0:00,12,2004,Lyon Souveniers
+34,100.0,1/10/2005 0:00,1,2005,Royale Belge
+36,100.0,2/9/2005 0:00,2,2005,"Toys of Finland, Co."
+34,43.05,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+48,100.0,4/15/2005 0:00,4,2005,Danish Wholesale Imports
+34,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+24,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+46,100.0,4/4/2003 0:00,4,2003,Classic Legends Inc.
+45,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+39,100.0,8/1/2003 0:00,8,2003,Suominen Souveniers
+43,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+29,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+20,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+46,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+27,100.0,11/25/2003 0:00,11,2003,Mini Classics
+44,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+43,100.0,2/10/2004 0:00,2,2004,Signal Collectibles Ltd.
+49,100.0,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+40,100.0,5/5/2004 0:00,5,2004,Euro Shopping Channel
+30,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+50,100.0,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+23,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+26,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+27,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+42,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+47,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+49,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+38,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+20,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+25,100.0,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+25,88.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+41,100.0,5/3/2005 0:00,5,2005,Euro Shopping Channel
+28,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+50,67.8,1/6/2003 0:00,1,2003,Online Diecast Creations Co.
+32,50.25,3/18/2003 0:00,3,2003,"AV Stores, Co."
+42,53.88,5/21/2003 0:00,5,2003,Signal Gift Stores
+24,62.36,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+27,69.62,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+26,57.51,11/5/2003 0:00,11,2003,Rovelli Gifts
+38,61.15,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+42,59.33,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+23,71.44,12/2/2003 0:00,12,2003,Muscle Machine Inc
+21,62.96,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+28,50.85,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+33,72.65,4/13/2004 0:00,4,2004,Mini Caravy
+25,62.96,8/17/2004 0:00,8,2004,Amica Models & Co.
+28,61.75,9/1/2004 0:00,9,2004,Handji Gifts& Co
+46,49.04,10/6/2004 0:00,10,2004,"Iberia Gift Imports, Corp."
+30,61.15,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+38,84.25,11/17/2004 0:00,11,2004,"AV Stores, Co."
+40,56.91,11/25/2004 0:00,11,2004,Marseille Mini Autos
+45,100.0,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+27,49.3,2/10/2005 0:00,2,2005,Euro Shopping Channel
+42,72.65,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+36,63.57,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+29,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+39,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+45,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+47,100.0,8/1/2003 0:00,8,2003,Suominen Souveniers
+49,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+46,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+48,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+46,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+35,100.0,11/25/2003 0:00,11,2003,Mini Classics
+43,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+26,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+22,98.18,5/5/2004 0:00,5,2004,Euro Shopping Channel
+34,99.41,6/15/2004 0:00,6,2004,Handji Gifts& Co
+50,100.0,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+48,100.0,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+41,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+36,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+29,100.0,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+33,37.48,11/5/2004 0:00,11,2004,Vitachrome Inc.
+46,100.0,11/19/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+38,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+20,36.42,12/10/2004 0:00,12,2004,Euro Shopping Channel
+22,100.0,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+27,100.0,2/22/2005 0:00,2,2005,Euro Shopping Channel
+56,98.18,5/3/2005 0:00,5,2005,Euro Shopping Channel
+38,99.41,5/31/2005 0:00,5,2005,La Rochelle Gifts
+25,100.0,1/9/2003 0:00,1,2003,"Blauer See Auto, Co."
+33,100.0,3/18/2003 0:00,3,2003,"AV Stores, Co."
+42,100.0,5/21/2003 0:00,5,2003,Signal Gift Stores
+33,100.0,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+38,100.0,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+31,100.0,11/5/2003 0:00,11,2003,Rovelli Gifts
+20,100.0,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+44,100.0,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+26,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+27,100.0,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+46,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+47,100.0,4/26/2004 0:00,4,2004,Diecast Collectables
+37,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+31,100.0,9/1/2004 0:00,9,2004,Handji Gifts& Co
+24,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+31,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+50,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+35,64.69,11/17/2004 0:00,11,2004,"AV Stores, Co."
+30,100.0,11/25/2004 0:00,11,2004,Marseille Mini Autos
+29,100.0,12/9/2004 0:00,12,2004,Lyon Souveniers
+27,100.0,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+40,100.0,2/16/2005 0:00,2,2005,Euro Shopping Channel
+31,98.99,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+6,100.0,4/23/2005 0:00,4,2005,Handji Gifts& Co
+45,100.0,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+22,54.09,1/29/2003 0:00,1,2003,Baane Mini Imports
+45,68.67,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+43,65.02,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+46,61.99,7/24/2003 0:00,7,2003,Technics Stores Inc.
+39,69.28,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+31,71.1,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+41,69.28,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+44,60.16,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+45,70.49,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+37,69.89,12/9/2003 0:00,12,2003,Diecast Collectables
+35,61.38,2/4/2004 0:00,2,2004,Handji Gifts& Co
+28,59.55,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+30,61.99,5/5/2004 0:00,5,2004,Euro Shopping Channel
+30,49.22,6/15/2004 0:00,6,2004,Handji Gifts& Co
+25,69.28,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+29,57.73,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+26,57.73,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+41,53.48,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+34,52.87,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+35,61.21,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+34,61.38,11/19/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+50,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+41,61.99,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+22,96.86,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+35,48.62,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+44,38.5,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+47,61.99,5/3/2005 0:00,5,2005,Euro Shopping Channel
+19,49.22,5/31/2005 0:00,5,2005,La Rochelle Gifts
+34,90.39,2/17/2003 0:00,2,2003,Rovelli Gifts
+29,71.81,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+49,69.27,6/27/2003 0:00,6,2003,Euro Shopping Channel
+30,85.32,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+21,70.96,10/28/2003 0:00,10,2003,Technics Stores Inc.
+50,76.88,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+47,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+24,76.03,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+27,98.84,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+33,86.17,6/28/2004 0:00,6,2004,Gift Depot Inc.
+35,90.39,7/23/2004 0:00,7,2004,La Rochelle Gifts
+31,71.81,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+25,82.79,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+27,82.79,10/15/2004 0:00,10,2004,Mini Classics
+31,100.0,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+45,100.0,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+27,100.0,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+27,100.0,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+42,69.27,2/2/2005 0:00,2,2005,"Australian Gift Network, Co"
+21,74.77,3/1/2005 0:00,3,2005,Euro Shopping Channel
+34,76.88,3/30/2005 0:00,3,2005,Reims Collectables
+42,76.03,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+15,98.84,5/10/2005 0:00,5,2005,L'ordine Souveniers
+29,70.87,2/24/2003 0:00,2,2003,Land of Toys Inc.
+46,58.15,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+30,61.78,7/1/2003 0:00,7,2003,Lyon Souveniers
+30,49.67,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+42,51.48,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+46,61.18,10/28/2003 0:00,10,2003,Technics Stores Inc.
+25,64.2,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+32,65.42,11/18/2003 0:00,11,2003,Herkku Gifts
+30,64.81,12/1/2003 0:00,12,2003,Mini Wheels Co.
+40,49.67,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+28,60.57,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+23,55.72,4/3/2004 0:00,4,2004,Motor Mint Distributors Inc.
+29,61.18,5/18/2004 0:00,5,2004,Tekni Collectables Inc.
+34,58.75,6/28/2004 0:00,6,2004,Gift Depot Inc.
+37,63.6,7/23/2004 0:00,7,2004,La Rochelle Gifts
+20,49.06,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+32,48.46,9/27/2004 0:00,9,2004,Atelier graphique
+34,52.09,10/15/2004 0:00,10,2004,Mini Classics
+42,52.7,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+38,100.0,11/15/2004 0:00,11,2004,Land of Toys Inc.
+30,62.16,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+23,49.67,1/5/2005 0:00,1,2005,Technics Stores Inc.
+22,53.3,2/2/2005 0:00,2,2005,"Australian Gift Network, Co"
+39,100.0,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+55,55.72,4/7/2005 0:00,4,2005,Auto Canal Petit
+36,61.18,5/13/2005 0:00,5,2005,Euro Shopping Channel
+26,100.0,1/9/2003 0:00,1,2003,"Blauer See Auto, Co."
+31,100.0,3/18/2003 0:00,3,2003,"AV Stores, Co."
+34,100.0,5/21/2003 0:00,5,2003,"Australian Collectors, Co."
+41,100.0,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+23,100.0,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+48,100.0,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+22,100.0,11/5/2003 0:00,11,2003,Rovelli Gifts
+21,100.0,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+22,100.0,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+40,100.0,12/3/2003 0:00,12,2003,Euro Shopping Channel
+50,100.0,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+29,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+43,100.0,4/29/2004 0:00,4,2004,Euro Shopping Channel
+24,100.0,6/4/2004 0:00,6,2004,Mini Caravy
+22,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+43,100.0,9/3/2004 0:00,9,2004,Herkku Gifts
+20,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+25,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+36,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+24,52.67,11/17/2004 0:00,11,2004,"AV Stores, Co."
+21,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+30,100.0,12/9/2004 0:00,12,2004,Lyon Souveniers
+32,94.79,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+21,47.18,2/16/2005 0:00,2,2005,Euro Shopping Channel
+26,78.11,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+35,100.0,5/29/2005 0:00,5,2005,Mini Gifts Distributors Ltd.
+26,100.0,3/10/2003 0:00,3,2003,Motor Mint Distributors Inc.
+46,100.0,5/20/2003 0:00,5,2003,Atelier graphique
+37,100.0,7/10/2003 0:00,7,2003,Reims Collectables
+27,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+23,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+39,100.0,11/5/2003 0:00,11,2003,Gift Depot Inc.
+27,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+38,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+27,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+40,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+24,100.0,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+44,100.0,4/13/2004 0:00,4,2004,Mini Caravy
+37,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+20,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+39,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+44,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+22,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+43,100.0,10/16/2004 0:00,10,2004,Euro Shopping Channel
+27,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+26,64.9,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+25,52.32,11/24/2004 0:00,11,2004,Reims Collectables
+49,100.0,1/10/2005 0:00,1,2005,Royale Belge
+29,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+41,100.0,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+55,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+27,83.07,1/29/2003 0:00,1,2003,Baane Mini Imports
+23,100.0,3/24/2003 0:00,3,2003,"Volvo Model Replicas, Co"
+31,90.17,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+46,100.0,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+47,91.18,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+31,100.0,10/20/2003 0:00,10,2003,Classic Legends Inc.
+46,100.0,11/6/2003 0:00,11,2003,"Australian Gift Network, Co"
+37,89.15,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+28,93.21,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+37,90.17,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+49,100.0,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+24,100.0,3/10/2004 0:00,3,2004,Cambridge Collectables Co.
+30,100.0,4/29/2004 0:00,4,2004,Euro Shopping Channel
+50,88.14,6/14/2004 0:00,6,2004,The Sharp Gifts Warehouse
+31,96.24,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+46,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+47,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+46,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+37,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+33,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+31,90.17,11/18/2004 0:00,11,2004,Mini Wheels Co.
+48,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+41,87.13,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+42,100.0,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+41,100.0,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+32,45.25,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+10,88.14,5/30/2005 0:00,5,2005,Petit Auto
+35,57.46,1/29/2003 0:00,1,2003,Baane Mini Imports
+28,64.33,3/25/2003 0:00,3,2003,Mini Wheels Co.
+46,73.7,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+20,71.2,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+30,49.97,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+48,69.96,10/20/2003 0:00,10,2003,Classic Legends Inc.
+28,53.72,11/5/2003 0:00,11,2003,Rovelli Gifts
+39,68.08,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+24,51.84,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+28,67.46,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+31,58.71,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+45,63.71,3/10/2004 0:00,3,2004,Cambridge Collectables Co.
+24,58.09,4/29/2004 0:00,4,2004,Euro Shopping Channel
+49,53.72,6/14/2004 0:00,6,2004,The Sharp Gifts Warehouse
+32,63.08,7/16/2004 0:00,7,2004,Salzburg Collectables
+43,68.71,8/17/2004 0:00,8,2004,Amica Models & Co.
+37,50.59,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+24,64.96,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+35,53.72,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+41,29.87,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+26,100.0,11/17/2004 0:00,11,2004,"AV Stores, Co."
+34,64.96,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+49,70.58,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+28,44.21,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+40,68.08,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+37,59.96,3/10/2005 0:00,3,2005,Mini Auto Werke
+31,53.72,5/30/2005 0:00,5,2005,Petit Auto
+41,83.44,2/17/2003 0:00,2,2003,Rovelli Gifts
+21,89.46,4/28/2003 0:00,4,2003,Salzburg Collectables
+40,96.34,6/16/2003 0:00,6,2003,Auto-Moto Classics Inc.
+46,74.84,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+44,79.14,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+46,73.12,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+41,81.72,11/8/2003 0:00,11,2003,Alpha Cognac
+32,89.46,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+46,87.74,11/26/2003 0:00,11,2003,Enaco Distributors
+28,100.0,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+49,94.62,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+21,73.98,5/7/2004 0:00,5,2004,Land of Toys Inc.
+32,84.3,6/24/2004 0:00,6,2004,Euro Shopping Channel
+34,98.06,7/21/2004 0:00,7,2004,Petit Auto
+21,98.06,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+21,96.34,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+31,83.44,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+21,94.62,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+25,45.86,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+28,82.58,11/22/2004 0:00,11,2004,Royale Belge
+43,64.97,12/2/2004 0:00,12,2004,Euro Shopping Channel
+22,86.74,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+37,93.01,3/1/2005 0:00,3,2005,Euro Shopping Channel
+28,72.26,3/30/2005 0:00,3,2005,Reims Collectables
+30,74.84,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+44,73.98,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+25,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+43,100.0,3/25/2003 0:00,3,2003,Mini Wheels Co.
+30,97.39,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+20,90.06,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+26,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+40,100.0,10/20/2003 0:00,10,2003,Classic Legends Inc.
+31,89.01,11/5/2003 0:00,11,2003,Rovelli Gifts
+22,100.0,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+23,100.0,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+30,100.0,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+49,100.0,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+31,100.0,3/10/2004 0:00,3,2004,Cambridge Collectables Co.
+29,100.0,4/29/2004 0:00,4,2004,Euro Shopping Channel
+37,84.82,6/14/2004 0:00,6,2004,The Sharp Gifts Warehouse
+38,100.0,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+29,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+23,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+26,85.87,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+38,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+48,47.04,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+40,39.8,11/17/2004 0:00,11,2004,"AV Stores, Co."
+45,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+44,100.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+21,94.22,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+35,100.0,2/17/2005 0:00,2,2005,Corporate Gift Ideas Co.
+29,86.92,3/10/2005 0:00,3,2005,Mini Auto Werke
+21,84.82,5/30/2005 0:00,5,2005,Petit Auto
+22,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+26,100.0,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+41,100.0,6/6/2003 0:00,6,2003,Euro Shopping Channel
+47,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+31,100.0,9/28/2003 0:00,9,2003,Euro Shopping Channel
+43,100.0,10/21/2003 0:00,10,2003,FunGiftIdeas.com
+23,100.0,11/7/2003 0:00,11,2003,CAF Imports
+28,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+49,100.0,11/26/2003 0:00,11,2003,Super Scale Inc.
+24,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+33,100.0,2/18/2004 0:00,2,2004,Petit Auto
+22,100.0,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+32,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+40,100.0,7/21/2004 0:00,7,2004,Petit Auto
+43,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+24,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+32,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+20,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+24,69.12,11/5/2004 0:00,11,2004,Baane Mini Imports
+48,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+44,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+28,100.0,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+24,61.52,2/22/2005 0:00,2,2005,Euro Shopping Channel
+33,100.0,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+41,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+23,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+46,100.0,3/10/2003 0:00,3,2003,Motor Mint Distributors Inc.
+48,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+25,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+22,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+41,100.0,7/4/2003 0:00,7,2003,Alpha Cognac
+34,100.0,8/1/2003 0:00,8,2003,Suominen Souveniers
+32,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+21,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+20,100.0,10/11/2003 0:00,10,2003,"Men 'R' US Retailers, Ltd."
+47,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+39,100.0,11/5/2003 0:00,11,2003,Quebec Home Shopping Network
+29,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+45,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+28,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+26,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+50,100.0,11/25/2003 0:00,11,2003,Mini Classics
+48,100.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+25,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+40,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+43,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+22,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+47,100.0,4/12/2004 0:00,4,2004,"Oulu Toy Supplies, Inc."
+36,100.0,5/5/2004 0:00,5,2004,Euro Shopping Channel
+40,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+27,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+29,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+20,100.0,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+42,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+25,100.0,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+36,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+21,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+23,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+37,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+48,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+25,100.0,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+33,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+27,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+27,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+20,100.0,11/19/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+30,100.0,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+48,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+32,93.49,12/10/2004 0:00,12,2004,Euro Shopping Channel
+34,100.0,1/10/2005 0:00,1,2005,Royale Belge
+27,56.85,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+39,100.0,2/9/2005 0:00,2,2005,"Toys of Finland, Co."
+47,100.0,2/22/2005 0:00,2,2005,Euro Shopping Channel
+22,100.0,3/15/2005 0:00,3,2005,Euro Shopping Channel
+55,100.0,4/14/2005 0:00,4,2005,Mini Caravy
+60,100.0,5/3/2005 0:00,5,2005,Euro Shopping Channel
+35,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+28,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+38,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+21,95.8,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+41,100.0,6/6/2003 0:00,6,2003,Euro Shopping Channel
+22,97.81,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+29,88.74,9/28/2003 0:00,9,2003,Euro Shopping Channel
+50,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+29,100.0,11/7/2003 0:00,11,2003,CAF Imports
+49,80.67,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+35,100.0,11/26/2003 0:00,11,2003,Super Scale Inc.
+48,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+23,80.67,2/18/2004 0:00,2,2004,Petit Auto
+48,95.8,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+42,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+47,100.0,7/21/2004 0:00,7,2004,Petit Auto
+36,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+22,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+40,91.76,10/14/2004 0:00,10,2004,"AV Stores, Co."
+23,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+32,100.0,11/9/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+21,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+41,93.04,12/2/2004 0:00,12,2004,Euro Shopping Channel
+25,84.71,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+26,100.0,2/22/2005 0:00,2,2005,Euro Shopping Channel
+24,89.75,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+48,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+26,68.35,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+21,73.17,5/8/2003 0:00,5,2003,Marseille Mini Autos
+45,78.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+36,86.04,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+21,81.21,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+32,70.76,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+30,82.82,11/12/2003 0:00,11,2003,Herkku Gifts
+36,94.88,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+33,86.04,12/2/2003 0:00,12,2003,Euro Shopping Channel
+35,78.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+37,95.69,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+41,73.17,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+20,76.39,5/26/2004 0:00,5,2004,Auto Canal Petit
+45,86.84,7/2/2004 0:00,7,2004,"Australian Collectables, Ltd"
+38,69.96,8/2/2004 0:00,8,2004,Online Mini Collectables
+43,70.76,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+49,78.8,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+27,80.41,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+46,73.98,11/3/2004 0:00,11,2004,Microscale Inc.
+38,59.1,11/15/2004 0:00,11,2004,Land of Toys Inc.
+25,66.74,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+46,60.3,1/6/2005 0:00,1,2005,Suominen Souveniers
+22,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+40,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+46,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+39,100.0,3/25/2003 0:00,3,2003,Mini Wheels Co.
+38,82.34,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+30,100.0,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+42,94.25,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+43,100.0,10/20/2003 0:00,10,2003,Classic Legends Inc.
+29,95.24,11/5/2003 0:00,11,2003,Rovelli Gifts
+33,86.31,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+32,79.37,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+28,87.3,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+41,100.0,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+33,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+36,84.33,4/29/2004 0:00,4,2004,Euro Shopping Channel
+26,89.29,6/14/2004 0:00,6,2004,The Sharp Gifts Warehouse
+34,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+26,96.23,9/7/2004 0:00,9,2004,Auto-Moto Classics Inc.
+38,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+33,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+33,91.27,11/5/2004 0:00,11,2004,"Blauer See Auto, Co."
+46,100.0,11/18/2004 0:00,11,2004,Mini Wheels Co.
+26,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+25,100.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+45,73.08,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+50,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+36,100.0,3/10/2005 0:00,3,2005,Mini Auto Werke
+21,89.29,5/30/2005 0:00,5,2005,Petit Auto
+29,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+21,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+42,100.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+37,100.0,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+25,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+36,100.0,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+22,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+23,100.0,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+32,100.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+28,100.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+27,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+49,100.0,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+41,100.0,5/26/2004 0:00,5,2004,Auto Canal Petit
+49,100.0,7/2/2004 0:00,7,2004,"Australian Collectables, Ltd"
+30,100.0,8/2/2004 0:00,8,2004,Online Mini Collectables
+40,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+23,100.0,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+49,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+25,100.0,11/3/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+37,100.0,11/16/2004 0:00,11,2004,Cruz & Sons Co.
+55,100.0,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+23,100.0,12/7/2004 0:00,12,2004,Euro Shopping Channel
+24,100.0,1/6/2005 0:00,1,2005,Suominen Souveniers
+43,96.49,2/10/2005 0:00,2,2005,Euro Shopping Channel
+50,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+47,100.0,3/10/2003 0:00,3,2003,Motor Mint Distributors Inc.
+34,100.0,5/20/2003 0:00,5,2003,Atelier graphique
+31,100.0,7/10/2003 0:00,7,2003,Reims Collectables
+28,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+36,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+48,100.0,11/5/2003 0:00,11,2003,Gift Depot Inc.
+39,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+45,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+35,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+45,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+46,100.0,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+37,100.0,4/13/2004 0:00,4,2004,Osaka Souveniers Co.
+31,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+33,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+31,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+27,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+39,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+32,100.0,10/16/2004 0:00,10,2004,Euro Shopping Channel
+28,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+26,67.91,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+44,84.88,11/24/2004 0:00,11,2004,Reims Collectables
+46,100.0,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+32,70.83,2/10/2005 0:00,2,2005,Euro Shopping Channel
+65,100.0,4/15/2005 0:00,4,2005,Danish Wholesale Imports
+43,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+43,67.77,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+35,49.74,5/8/2003 0:00,5,2003,Marseille Mini Autos
+45,50.36,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+47,67.14,9/3/2003 0:00,9,2003,Gift Ideas Corp.
+21,64.66,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+38,68.39,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+21,50.36,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+43,72.74,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+46,54.09,1/15/2004 0:00,1,2004,Auto Canal Petit
+38,58.44,2/21/2004 0:00,2,2004,Daedalus Designs Imports
+26,52.22,4/5/2004 0:00,4,2004,Vitachrome Inc.
+31,52.84,5/26/2004 0:00,5,2004,Auto Canal Petit
+48,54.71,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+33,50.36,8/2/2004 0:00,8,2004,Online Mini Collectables
+38,57.2,8/28/2004 0:00,8,2004,"La Corne D'abondance, Co."
+39,55.95,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+42,67.14,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+44,59.06,11/3/2004 0:00,11,2004,Microscale Inc.
+29,69.63,11/16/2004 0:00,11,2004,Cruz & Sons Co.
+26,55.95,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+31,53.47,12/7/2004 0:00,12,2004,Euro Shopping Channel
+32,89.12,1/6/2005 0:00,1,2005,Suominen Souveniers
+28,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+36,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+36,52.22,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+41,100.0,2/17/2003 0:00,2,2003,Rovelli Gifts
+27,99.52,4/28/2003 0:00,4,2003,Salzburg Collectables
+33,100.0,6/16/2003 0:00,6,2003,Auto-Moto Classics Inc.
+34,100.0,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+29,100.0,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+34,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+48,100.0,11/8/2003 0:00,11,2003,Alpha Cognac
+46,100.0,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+22,100.0,11/26/2003 0:00,11,2003,Enaco Distributors
+20,100.0,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+45,85.75,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+46,100.0,5/8/2004 0:00,5,2004,Cambridge Collectables Co.
+34,100.0,6/24/2004 0:00,6,2004,Euro Shopping Channel
+50,85.75,7/21/2004 0:00,7,2004,Petit Auto
+46,100.0,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+22,84.7,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+48,86.81,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+47,86.81,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+34,100.0,11/12/2004 0:00,11,2004,Rovelli Gifts
+45,100.0,11/22/2004 0:00,11,2004,Royale Belge
+20,100.0,12/3/2004 0:00,12,2004,"Stylish Desk Decors, Co."
+50,60.49,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+22,57.55,3/1/2005 0:00,3,2005,Euro Shopping Channel
+45,100.0,3/30/2005 0:00,3,2005,Reims Collectables
+58,100.0,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+51,100.0,5/9/2005 0:00,5,2005,"Australian Collectables, Ltd"
+38,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+22,100.0,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+25,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+24,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+35,100.0,9/25/2003 0:00,9,2003,"Australian Gift Network, Co"
+28,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+36,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+39,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+27,100.0,11/26/2003 0:00,11,2003,Super Scale Inc.
+40,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+50,100.0,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+42,100.0,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+48,100.0,5/5/2004 0:00,5,2004,Suominen Souveniers
+25,100.0,7/20/2004 0:00,7,2004,Diecast Classics Inc.
+31,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+44,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+23,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+29,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+49,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+36,100.0,11/21/2004 0:00,11,2004,Classic Legends Inc.
+34,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+25,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+48,100.0,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+38,100.0,2/22/2005 0:00,2,2005,Euro Shopping Channel
+37,100.0,3/15/2005 0:00,3,2005,Euro Shopping Channel
+49,100.0,5/5/2005 0:00,5,2005,Gift Depot Inc.
+22,86.51,1/6/2003 0:00,1,2003,Online Diecast Creations Co.
+28,89.27,3/18/2003 0:00,3,2003,"AV Stores, Co."
+36,85.59,5/21/2003 0:00,5,2003,Signal Gift Stores
+34,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+39,100.0,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+21,75.46,11/5/2003 0:00,11,2003,Rovelli Gifts
+36,100.0,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+24,97.55,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+29,85.59,12/2/2003 0:00,12,2003,Muscle Machine Inc
+38,94.79,1/22/2004 0:00,1,2004,"Double Decker Gift Stores, Ltd"
+34,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+42,90.19,4/13/2004 0:00,4,2004,Mini Caravy
+35,100.0,8/17/2004 0:00,8,2004,Amica Models & Co.
+35,80.99,9/1/2004 0:00,9,2004,Handji Gifts& Co
+38,89.27,10/6/2003 0:00,10,2003,"UK Collectables, Ltd."
+41,81.91,10/16/2004 0:00,10,2004,Euro Shopping Channel
+50,100.0,11/17/2004 0:00,11,2004,"AV Stores, Co."
+21,100.0,11/25/2004 0:00,11,2004,Marseille Mini Autos
+43,62.72,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+32,100.0,2/16/2005 0:00,2,2005,Euro Shopping Channel
+6,90.19,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+66,92.95,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+41,82.5,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+23,97.42,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+43,92.16,6/6/2003 0:00,6,2003,Euro Shopping Channel
+24,70.22,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+22,83.38,9/28/2003 0:00,9,2003,Euro Shopping Channel
+26,73.73,10/21/2003 0:00,10,2003,FunGiftIdeas.com
+35,74.6,11/7/2003 0:00,11,2003,CAF Imports
+47,77.24,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+50,100.0,11/26/2003 0:00,11,2003,Enaco Distributors
+45,87.77,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+39,89.53,2/18/2004 0:00,2,2004,Petit Auto
+23,89.53,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+42,75.48,5/7/2004 0:00,5,2004,Land of Toys Inc.
+20,89.53,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+33,71.09,7/21/2004 0:00,7,2004,Petit Auto
+34,100.0,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+49,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+39,90.4,10/14/2004 0:00,10,2004,"AV Stores, Co."
+36,100.0,10/29/2004 0:00,10,2004,La Rochelle Gifts
+50,86.01,11/9/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+29,100.0,11/21/2004 0:00,11,2004,Classic Legends Inc.
+30,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+41,86.89,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+28,58.58,2/22/2005 0:00,2,2005,Euro Shopping Channel
+45,100.0,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+16,75.48,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+36,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+41,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+50,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+40,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+49,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+45,100.0,10/21/2003 0:00,10,2003,Mini Auto Werke
+47,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+21,100.0,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+32,100.0,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+47,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+38,100.0,2/4/2004 0:00,2,2004,Handji Gifts& Co
+41,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+21,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+41,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+38,100.0,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+25,99.29,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+48,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+22,99.29,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+28,100.0,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+47,100.0,11/5/2004 0:00,11,2004,"Blauer See Auto, Co."
+49,100.0,11/19/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+45,100.0,11/29/2004 0:00,11,2004,"Australian Collectors, Co."
+28,100.0,12/10/2004 0:00,12,2004,Mini Gifts Distributors Ltd.
+29,57.53,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+39,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+46,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+38,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+41,47.29,1/29/2003 0:00,1,2003,Baane Mini Imports
+50,49.81,3/26/2003 0:00,3,2003,Mini Gifts Distributors Ltd.
+43,53.83,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+29,43.27,7/24/2003 0:00,7,2003,Technics Stores Inc.
+30,42.76,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+25,53.83,10/21/2003 0:00,10,2003,Mini Auto Werke
+49,44.78,11/6/2003 0:00,11,2003,"Australian Gift Network, Co"
+40,49.3,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+41,44.78,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+21,53.33,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+46,45.28,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+39,40.25,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+45,59.87,5/4/2004 0:00,5,2004,Super Scale Inc.
+21,59.87,6/15/2004 0:00,6,2004,"Tokyo Collectables, Ltd"
+44,58.36,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+44,59.87,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+29,51.82,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+34,49.3,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+39,56.85,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+38,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+24,79.86,11/18/2004 0:00,11,2004,Mini Wheels Co.
+29,100.0,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+30,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+20,100.0,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+39,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+35,59.87,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+26,59.87,5/31/2005 0:00,5,2005,Euro Shopping Channel
+44,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+28,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+31,100.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+29,100.0,9/3/2003 0:00,9,2003,Gift Ideas Corp.
+32,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+33,100.0,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+44,100.0,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+32,100.0,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+41,100.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+35,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+44,100.0,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+26,100.0,5/26/2004 0:00,5,2004,Auto Canal Petit
+20,100.0,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+48,100.0,8/2/2004 0:00,8,2004,Online Mini Collectables
+34,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+49,100.0,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+40,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+45,100.0,11/3/2004 0:00,11,2004,Microscale Inc.
+50,100.0,11/16/2004 0:00,11,2004,Cruz & Sons Co.
+38,100.0,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+25,100.0,12/7/2004 0:00,12,2004,Euro Shopping Channel
+28,58.18,1/6/2005 0:00,1,2005,Suominen Souveniers
+49,67.14,2/10/2005 0:00,2,2005,Euro Shopping Channel
+49,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+42,61.29,3/18/2003 0:00,3,2003,"AV Stores, Co."
+23,57.73,5/21/2003 0:00,5,2003,Signal Gift Stores
+29,81.25,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+25,80.54,10/17/2003 0:00,10,2003,Heintze Collectables
+39,71.98,11/5/2003 0:00,11,2003,Rovelli Gifts
+44,69.84,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+25,76.26,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+45,76.26,12/2/2003 0:00,12,2003,Muscle Machine Inc
+25,83.39,1/22/2004 0:00,1,2004,"Double Decker Gift Stores, Ltd"
+37,57.73,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+30,66.99,4/13/2004 0:00,4,2004,Mini Caravy
+36,75.55,7/7/2004 0:00,7,2004,Muscle Machine Inc
+26,60.58,8/9/2004 0:00,8,2004,Euro Shopping Channel
+23,73.41,9/1/2004 0:00,9,2004,Handji Gifts& Co
+23,72.7,10/6/2003 0:00,10,2003,"UK Collectables, Ltd."
+25,66.99,10/16/2004 0:00,10,2004,Euro Shopping Channel
+21,100.0,11/17/2004 0:00,11,2004,"AV Stores, Co."
+26,63.43,11/25/2004 0:00,11,2004,Marseille Mini Autos
+44,85.25,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+24,100.0,2/16/2005 0:00,2,2005,Euro Shopping Channel
+66,66.99,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+36,57.73,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+36,85.25,3/18/2003 0:00,3,2003,"AV Stores, Co."
+22,77.9,5/21/2003 0:00,5,2003,Signal Gift Stores
+25,60.26,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+37,72.76,10/17/2003 0:00,10,2003,Heintze Collectables
+32,75.69,11/5/2003 0:00,11,2003,Gift Depot Inc.
+47,74.22,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+37,69.82,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+20,62.47,12/2/2003 0:00,12,2003,Muscle Machine Inc
+41,82.31,1/16/2004 0:00,1,2004,Euro Shopping Channel
+21,60.26,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+22,76.43,4/13/2004 0:00,4,2004,Mini Caravy
+40,80.1,7/7/2004 0:00,7,2004,Muscle Machine Inc
+32,74.96,8/9/2004 0:00,8,2004,Euro Shopping Channel
+36,66.14,9/1/2004 0:00,9,2004,Handji Gifts& Co
+27,72.02,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+26,87.45,10/16/2004 0:00,10,2004,Euro Shopping Channel
+30,70.55,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+23,56.84,11/17/2004 0:00,11,2004,"AV Stores, Co."
+29,59.53,11/25/2004 0:00,11,2004,Marseille Mini Autos
+21,60.37,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+34,100.0,2/16/2005 0:00,2,2005,Euro Shopping Channel
+26,76.43,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+60,64.67,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+35,55.49,1/31/2003 0:00,1,2003,Euro Shopping Channel
+47,69.36,4/4/2003 0:00,4,2003,Classic Legends Inc.
+20,60.69,6/3/2003 0:00,6,2003,Muscle Machine Inc
+20,54.33,8/1/2003 0:00,8,2003,Suominen Souveniers
+25,65.31,9/25/2003 0:00,9,2003,"Australian Gift Network, Co"
+25,69.36,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+27,68.78,11/6/2003 0:00,11,2003,L'ordine Souveniers
+31,60.11,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+44,66.47,11/25/2003 0:00,11,2003,Mini Classics
+49,46.82,12/9/2003 0:00,12,2003,Diecast Collectables
+26,56.07,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+36,54.33,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+44,52.6,5/5/2004 0:00,5,2004,Euro Shopping Channel
+28,46.82,6/15/2004 0:00,6,2004,Handji Gifts& Co
+45,64.74,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+29,46.82,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+40,53.75,9/8/2004 0:00,9,2004,Land of Toys Inc.
+45,61.85,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+44,53.18,10/22/2004 0:00,10,2004,Heintze Collectables
+25,69.16,11/5/2004 0:00,11,2004,Vitachrome Inc.
+45,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+48,47.4,12/1/2004 0:00,12,2004,Muscle Machine Inc
+44,60.76,12/10/2004 0:00,12,2004,Euro Shopping Channel
+25,97.27,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+22,91.76,2/22/2005 0:00,2,2005,Euro Shopping Channel
+31,50.29,3/15/2005 0:00,3,2005,Euro Shopping Channel
+21,52.6,5/3/2005 0:00,5,2005,Euro Shopping Channel
+55,46.82,5/31/2005 0:00,5,2005,La Rochelle Gifts
+25,100.0,2/24/2003 0:00,2,2003,Land of Toys Inc.
+35,98.05,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+35,93.54,7/1/2003 0:00,7,2003,Lyon Souveniers
+43,95.8,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+44,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+50,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+48,100.0,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+25,100.0,11/18/2003 0:00,11,2003,Herkku Gifts
+39,100.0,12/1/2003 0:00,12,2003,Mini Wheels Co.
+25,90.16,1/15/2004 0:00,1,2004,Auto Canal Petit
+32,91.29,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+20,100.0,4/5/2004 0:00,4,2004,Vitachrome Inc.
+26,100.0,5/18/2004 0:00,5,2004,Tekni Collectables Inc.
+42,100.0,6/28/2004 0:00,6,2004,Gift Depot Inc.
+21,100.0,7/23/2004 0:00,7,2004,La Rochelle Gifts
+34,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+47,100.0,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+21,100.0,10/15/2004 0:00,10,2004,Baane Mini Imports
+48,100.0,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+30,87.78,11/15/2004 0:00,11,2004,Land of Toys Inc.
+27,84.39,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+50,96.92,1/5/2005 0:00,1,2005,Technics Stores Inc.
+38,100.0,2/2/2005 0:00,2,2005,"Australian Gift Network, Co"
+45,100.0,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+46,100.0,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+35,100.0,5/13/2005 0:00,5,2005,Euro Shopping Channel
+29,59.37,3/18/2003 0:00,3,2003,"AV Stores, Co."
+50,59.87,5/20/2003 0:00,5,2003,Atelier graphique
+26,49.81,7/10/2003 0:00,7,2003,Reims Collectables
+47,56.85,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+23,53.33,10/17/2003 0:00,10,2003,Heintze Collectables
+34,42.76,11/5/2003 0:00,11,2003,Gift Depot Inc.
+34,53.83,11/12/2003 0:00,11,2003,Herkku Gifts
+47,53.83,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+45,49.81,12/2/2003 0:00,12,2003,Muscle Machine Inc
+45,53.33,1/16/2004 0:00,1,2004,Euro Shopping Channel
+36,43.27,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+21,40.25,4/13/2004 0:00,4,2004,Mini Caravy
+28,48.3,7/6/2004 0:00,7,2004,L'ordine Souveniers
+35,45.28,8/6/2004 0:00,8,2004,Signal Gift Stores
+50,52.32,9/1/2004 0:00,9,2004,Handji Gifts& Co
+22,51.32,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+45,49.3,10/16/2004 0:00,10,2004,Euro Shopping Channel
+48,42.26,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+20,87.96,11/17/2004 0:00,11,2004,"AV Stores, Co."
+27,36.21,11/24/2004 0:00,11,2004,Reims Collectables
+38,38.5,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+32,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+64,40.25,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+37,60.37,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+28,88.63,2/17/2003 0:00,2,2003,Rovelli Gifts
+39,100.0,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+41,94.1,6/27/2003 0:00,6,2003,Euro Shopping Channel
+40,87.54,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+49,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+27,98.48,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+34,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+23,96.29,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+31,88.63,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+34,97.38,6/24/2004 0:00,6,2004,Euro Shopping Channel
+25,95.2,7/23/2004 0:00,7,2004,La Rochelle Gifts
+22,100.0,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+32,100.0,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+31,100.0,10/15/2004 0:00,10,2004,Mini Classics
+25,100.0,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+47,87.54,11/12/2004 0:00,11,2004,Rovelli Gifts
+21,50.65,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+28,71.73,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+46,94.1,2/2/2005 0:00,2,2005,"Australian Gift Network, Co"
+33,41.71,3/1/2005 0:00,3,2005,Euro Shopping Channel
+43,100.0,3/30/2005 0:00,3,2005,Reims Collectables
+38,96.29,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+47,88.63,5/10/2005 0:00,5,2005,L'ordine Souveniers
+45,31.2,1/9/2003 0:00,1,2003,"Blauer See Auto, Co."
+20,35.51,3/18/2003 0:00,3,2003,"AV Stores, Co."
+45,37.84,5/21/2003 0:00,5,2003,Signal Gift Stores
+36,33.19,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+37,27.22,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+31,31.53,11/5/2003 0:00,11,2003,Rovelli Gifts
+39,36.84,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+26,29.21,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+32,37.17,12/3/2003 0:00,12,2003,Euro Shopping Channel
+20,34.19,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+42,29.21,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+33,29.54,4/26/2004 0:00,4,2004,Diecast Collectables
+20,28.88,8/17/2004 0:00,8,2004,Amica Models & Co.
+29,38.17,9/1/2004 0:00,9,2004,Handji Gifts& Co
+23,30.2,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+39,29.54,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+20,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+45,81.91,11/17/2004 0:00,11,2004,"AV Stores, Co."
+20,35.18,11/25/2004 0:00,11,2004,Marseille Mini Autos
+48,100.0,12/9/2004 0:00,12,2004,Lyon Souveniers
+23,36.29,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+32,70.56,2/16/2005 0:00,2,2005,Euro Shopping Channel
+33,100.0,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+61,29.54,4/23/2005 0:00,4,2005,Handji Gifts& Co
+45,26.88,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+38,83.03,2/24/2003 0:00,2,2003,Land of Toys Inc.
+34,83.79,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+43,83.03,7/1/2003 0:00,7,2003,Lyon Souveniers
+47,83.03,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+22,67.03,10/10/2003 0:00,10,2003,Baane Mini Imports
+29,75.41,10/28/2003 0:00,10,2003,Technics Stores Inc.
+28,68.55,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+40,91.4,11/18/2003 0:00,11,2003,Herkku Gifts
+25,73.88,12/1/2003 0:00,12,2003,Mini Wheels Co.
+30,61.7,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+38,69.31,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+36,87.6,4/3/2004 0:00,4,2004,Motor Mint Distributors Inc.
+32,87.6,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+37,62.46,6/28/2004 0:00,6,2004,Gift Depot Inc.
+30,79.98,7/23/2004 0:00,7,2004,La Rochelle Gifts
+39,70.08,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+32,65.51,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+47,63.22,10/15/2004 0:00,10,2004,Mini Classics
+26,86.83,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+37,94.43,11/15/2004 0:00,11,2004,Land of Toys Inc.
+55,79.98,11/24/2004 0:00,11,2004,Enaco Distributors
+21,100.0,1/6/2005 0:00,1,2005,Suominen Souveniers
+23,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+49,81.4,3/3/2005 0:00,3,2005,Scandinavian Gift Ideas
+59,87.6,4/7/2005 0:00,4,2005,Auto Canal Petit
+32,87.6,5/10/2005 0:00,5,2005,L'ordine Souveniers
+43,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+41,100.0,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+45,100.0,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+33,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+40,100.0,9/28/2003 0:00,9,2003,Euro Shopping Channel
+33,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+50,100.0,11/7/2003 0:00,11,2003,CAF Imports
+30,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+41,100.0,11/26/2003 0:00,11,2003,Enaco Distributors
+35,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+49,100.0,2/18/2004 0:00,2,2004,Petit Auto
+46,100.0,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+48,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+36,100.0,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+22,100.0,7/21/2004 0:00,7,2004,Petit Auto
+42,100.0,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+21,100.0,9/9/2004 0:00,9,2004,Amica Models & Co.
+29,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+35,100.0,10/29/2004 0:00,10,2004,La Rochelle Gifts
+41,100.0,11/9/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+29,71.97,11/21/2004 0:00,11,2004,Classic Legends Inc.
+34,50.33,12/2/2004 0:00,12,2004,Euro Shopping Channel
+37,100.0,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+28,80.54,2/23/2005 0:00,2,2005,Corporate Gift Ideas Co.
+49,100.0,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+23,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+46,53.76,1/9/2003 0:00,1,2003,"Blauer See Auto, Co."
+39,44.35,3/18/2003 0:00,3,2003,"AV Stores, Co."
+22,45.25,5/21/2003 0:00,5,2003,Signal Gift Stores
+49,49.28,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+43,36.29,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+27,41.22,11/5/2003 0:00,11,2003,Rovelli Gifts
+31,36.74,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+20,50.62,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+24,38.08,12/3/2003 0:00,12,2003,Euro Shopping Channel
+49,47.94,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+24,48.38,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+39,45.25,4/29/2004 0:00,4,2004,Euro Shopping Channel
+37,45.7,6/4/2004 0:00,6,2004,Mini Caravy
+45,47.49,8/17/2004 0:00,8,2004,Amica Models & Co.
+45,48.38,9/3/2004 0:00,9,2004,Herkku Gifts
+44,39.42,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+23,37.63,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+30,100.0,11/4/2004 0:00,11,2004,Online Diecast Creations Co.
+26,85.52,11/17/2004 0:00,11,2004,"AV Stores, Co."
+43,53.76,11/25/2004 0:00,11,2004,Atelier graphique
+26,31.86,12/9/2004 0:00,12,2004,Lyon Souveniers
+28,30.59,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+27,68.35,2/16/2005 0:00,2,2005,Euro Shopping Channel
+24,100.0,3/9/2005 0:00,3,2005,"Anna's Decorations, Ltd"
+40,45.7,5/29/2005 0:00,5,2005,Mini Gifts Distributors Ltd.
+36,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+21,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+27,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+47,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+42,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+32,100.0,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+28,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+24,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+49,100.0,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+46,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+28,100.0,2/4/2004 0:00,2,2004,Handji Gifts& Co
+48,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+29,100.0,5/5/2004 0:00,5,2004,Euro Shopping Channel
+47,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+43,100.0,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+25,100.0,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+48,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+24,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+42,100.0,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+31,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+42,100.0,11/19/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+37,100.0,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+41,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+20,100.0,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+20,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+70,100.0,5/3/2005 0:00,5,2005,Euro Shopping Channel
+49,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+35,58.87,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+32,76.88,5/7/2003 0:00,5,2003,Reims Collectables
+29,61.64,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+27,60.95,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+27,80.34,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+38,74.11,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+35,72.03,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+42,76.19,11/19/2003 0:00,11,2003,Euro Shopping Channel
+21,63.72,1/15/2004 0:00,1,2004,Auto Canal Petit
+37,80.34,2/21/2004 0:00,2,2004,Daedalus Designs Imports
+26,79.65,4/5/2004 0:00,4,2004,Vitachrome Inc.
+47,65.8,5/26/2004 0:00,5,2004,Auto Canal Petit
+37,65.1,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+46,75.49,8/2/2004 0:00,8,2004,Online Mini Collectables
+38,59.56,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+33,66.49,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+24,56.1,10/15/2004 0:00,10,2004,Baane Mini Imports
+31,81.73,11/3/2004 0:00,11,2004,Microscale Inc.
+42,81.03,11/16/2004 0:00,11,2004,Cruz & Sons Co.
+32,100.0,11/24/2004 0:00,11,2004,Salzburg Collectables
+41,70.65,12/7/2004 0:00,12,2004,Euro Shopping Channel
+43,61.23,1/6/2005 0:00,1,2005,Suominen Souveniers
+20,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+35,65.13,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+27,79.65,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+43,78.15,3/18/2003 0:00,3,2003,"AV Stores, Co."
+32,72.7,5/21/2003 0:00,5,2003,Signal Gift Stores
+21,73.6,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+20,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+22,74.51,11/5/2003 0:00,11,2003,Gift Depot Inc.
+36,73.6,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+46,83.6,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+47,96.32,12/2/2003 0:00,12,2003,Muscle Machine Inc
+45,88.14,1/16/2004 0:00,1,2004,Euro Shopping Channel
+47,88.14,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+47,94.5,4/13/2004 0:00,4,2004,Mini Caravy
+38,87.24,7/7/2004 0:00,7,2004,Muscle Machine Inc
+49,79.97,8/9/2004 0:00,8,2004,Euro Shopping Channel
+35,80.87,9/1/2004 0:00,9,2004,Handji Gifts& Co
+49,100.0,10/6/2003 0:00,10,2003,"UK Collectables, Ltd."
+28,93.6,10/16/2004 0:00,10,2004,Euro Shopping Channel
+30,72.7,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+39,86.72,11/17/2004 0:00,11,2004,"AV Stores, Co."
+25,100.0,11/29/2004 0:00,11,2004,Signal Gift Stores
+40,100.0,1/19/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+36,37.5,2/16/2005 0:00,2,2005,Euro Shopping Channel
+76,94.5,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+39,100.0,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+44,39.6,1/31/2003 0:00,1,2003,Euro Shopping Channel
+24,30.06,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+39,38.19,6/3/2003 0:00,6,2003,Muscle Machine Inc
+21,42.43,8/1/2003 0:00,8,2003,Suominen Souveniers
+30,40.31,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+27,31.82,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+37,31.12,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+42,31.82,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+32,28.29,11/25/2003 0:00,11,2003,Mini Classics
+42,29.7,12/9/2003 0:00,12,2003,Diecast Collectables
+21,40.31,2/10/2004 0:00,2,2004,Signal Collectibles Ltd.
+33,32.88,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+49,36.07,5/5/2004 0:00,5,2004,Euro Shopping Channel
+31,33.24,6/15/2004 0:00,6,2004,Handji Gifts& Co
+38,41.72,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+20,40.66,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+39,30.06,9/8/2004 0:00,9,2004,Land of Toys Inc.
+48,31.47,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+39,37.13,10/22/2004 0:00,10,2004,Heintze Collectables
+30,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+33,37.13,11/19/2004 0:00,11,2004,Mini Gifts Distributors Ltd.
+36,37.13,12/1/2004 0:00,12,2004,Muscle Machine Inc
+36,82.94,12/10/2004 0:00,12,2004,Euro Shopping Channel
+45,100.0,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+40,100.0,2/22/2005 0:00,2,2005,Euro Shopping Channel
+46,38.9,3/15/2005 0:00,3,2005,Euro Shopping Channel
+30,36.07,5/3/2005 0:00,5,2005,Euro Shopping Channel
+31,33.24,5/31/2005 0:00,5,2005,La Rochelle Gifts
+49,74.68,2/17/2003 0:00,2,2003,Rovelli Gifts
+41,59.6,4/28/2003 0:00,4,2003,Salzburg Collectables
+35,67.14,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+27,60.97,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+23,72.62,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+21,69.88,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+34,80.84,11/8/2003 0:00,11,2003,Alpha Cognac
+22,69.2,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+48,67.82,11/27/2003 0:00,11,2003,Cruz & Sons Co.
+43,82.21,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+32,81.53,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+20,67.82,5/8/2004 0:00,5,2004,Cambridge Collectables Co.
+24,67.14,6/24/2004 0:00,6,2004,Euro Shopping Channel
+40,65.08,7/21/2004 0:00,7,2004,Collectables For Less Inc.
+30,73.99,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+21,71.25,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+25,75.36,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+34,63.71,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+48,58.92,11/12/2004 0:00,11,2004,Rovelli Gifts
+55,100.0,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+25,74.68,12/3/2004 0:00,12,2004,"Stylish Desk Decors, Co."
+38,70.44,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+39,55.96,3/1/2005 0:00,3,2005,Euro Shopping Channel
+28,57.55,3/30/2005 0:00,3,2005,Reims Collectables
+24,61.66,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+21,67.82,5/9/2005 0:00,5,2005,"Australian Collectables, Ltd"
+46,100.0,3/18/2003 0:00,3,2003,"AV Stores, Co."
+25,93.95,5/21/2003 0:00,5,2003,Signal Gift Stores
+34,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+25,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+23,100.0,11/5/2003 0:00,11,2003,Rovelli Gifts
+20,100.0,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+23,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+42,100.0,12/2/2003 0:00,12,2003,Muscle Machine Inc
+27,100.0,1/22/2004 0:00,1,2004,"Double Decker Gift Stores, Ltd"
+33,100.0,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+28,98.65,4/13/2004 0:00,4,2004,Mini Caravy
+43,100.0,7/7/2004 0:00,7,2004,Muscle Machine Inc
+48,100.0,8/9/2004 0:00,8,2004,Euro Shopping Channel
+48,100.0,9/1/2004 0:00,9,2004,Handji Gifts& Co
+45,100.0,10/6/2003 0:00,10,2003,"UK Collectables, Ltd."
+43,100.0,10/16/2004 0:00,10,2004,Euro Shopping Channel
+44,42.26,11/17/2004 0:00,11,2004,"AV Stores, Co."
+24,87.24,11/29/2004 0:00,11,2004,Signal Gift Stores
+31,100.0,1/19/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+44,36.29,2/16/2005 0:00,2,2005,Euro Shopping Channel
+59,98.65,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+55,96.3,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+29,32.1,3/10/2003 0:00,3,2003,Motor Mint Distributors Inc.
+39,30.96,5/8/2003 0:00,5,2003,Marseille Mini Autos
+20,35.87,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+25,42.67,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+42,37.0,10/11/2003 0:00,10,2003,"Men 'R' US Retailers, Ltd."
+36,35.49,11/5/2003 0:00,11,2003,Quebec Home Shopping Network
+37,42.67,11/12/2003 0:00,11,2003,Herkku Gifts
+30,30.59,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+21,37.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+34,43.42,1/16/2004 0:00,1,2004,Euro Shopping Channel
+42,36.63,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+20,44.56,4/12/2004 0:00,4,2004,"Oulu Toy Supplies, Inc."
+40,42.67,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+34,40.4,7/6/2004 0:00,7,2004,L'ordine Souveniers
+31,38.89,8/6/2004 0:00,8,2004,Signal Gift Stores
+36,39.65,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+48,34.36,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+33,41.91,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+37,33.23,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+27,42.24,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+39,40.4,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+36,38.52,12/7/2004 0:00,12,2004,Euro Shopping Channel
+36,100.0,1/12/2005 0:00,1,2005,Toys4GrownUps.com
+41,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+37,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+47,44.56,4/14/2005 0:00,4,2005,Mini Caravy
+15,42.67,5/17/2005 0:00,5,2005,Salzburg Collectables
+44,72.58,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+35,87.62,4/28/2003 0:00,4,2003,Salzburg Collectables
+41,94.71,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+49,98.25,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+31,91.17,10/2/2003 0:00,10,2003,Boards & Toys Co.
+20,79.66,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+45,72.58,11/7/2003 0:00,11,2003,CAF Imports
+33,74.35,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+47,83.2,11/26/2003 0:00,11,2003,Enaco Distributors
+20,89.4,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+47,70.81,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+40,94.71,3/29/2004 0:00,3,2004,Tekni Collectables Inc.
+30,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+22,91.17,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+27,100.0,7/21/2004 0:00,7,2004,Petit Auto
+34,92.94,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+46,84.97,9/10/2004 0:00,9,2004,Gifts4AllAges.com
+31,84.08,10/14/2004 0:00,10,2004,"AV Stores, Co."
+24,86.74,10/29/2004 0:00,10,2004,La Rochelle Gifts
+41,85.85,11/9/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+55,100.0,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+30,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+33,57.32,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+43,97.87,2/23/2005 0:00,2,2005,Corporate Gift Ideas Co.
+27,83.2,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+60,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+27,73.62,3/18/2003 0:00,3,2003,"AV Stores, Co."
+49,83.04,5/21/2003 0:00,5,2003,Signal Gift Stores
+31,73.62,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+20,77.05,10/17/2003 0:00,10,2003,Heintze Collectables
+24,81.33,11/5/2003 0:00,11,2003,Gift Depot Inc.
+33,94.17,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+32,72.77,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+40,79.62,12/2/2003 0:00,12,2003,Muscle Machine Inc
+27,79.62,1/16/2004 0:00,1,2004,Euro Shopping Channel
+40,79.62,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+26,81.33,4/13/2004 0:00,4,2004,Mini Caravy
+44,96.74,7/7/2004 0:00,7,2004,Muscle Machine Inc
+33,71.06,8/9/2004 0:00,8,2004,Euro Shopping Channel
+34,68.49,9/1/2004 0:00,9,2004,Handji Gifts& Co
+48,74.48,10/6/2003 0:00,10,2003,"UK Collectables, Ltd."
+25,83.04,10/16/2004 0:00,10,2004,Euro Shopping Channel
+39,84.75,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+45,34.19,11/17/2004 0:00,11,2004,"AV Stores, Co."
+24,100.0,11/29/2004 0:00,11,2004,Signal Gift Stores
+46,79.62,1/19/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+44,79.06,2/16/2005 0:00,2,2005,Euro Shopping Channel
+13,81.33,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+35,96.74,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+30,63.07,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+34,50.21,5/8/2003 0:00,5,2003,Marseille Mini Autos
+27,66.13,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+30,68.58,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+50,69.8,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+34,50.21,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+23,65.52,11/12/2003 0:00,11,2003,Herkku Gifts
+48,60.01,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+34,64.9,12/2/2003 0:00,12,2003,Euro Shopping Channel
+48,48.98,1/15/2004 0:00,1,2004,Auto Canal Petit
+24,50.21,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+47,62.45,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+24,52.66,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+47,62.45,7/6/2004 0:00,7,2004,L'ordine Souveniers
+20,61.23,8/2/2004 0:00,8,2004,Online Mini Collectables
+20,67.97,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+31,58.78,10/4/2003 0:00,10,2003,"Blauer See Auto, Co."
+38,56.94,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+26,61.23,11/3/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+25,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+48,62.45,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+44,62.45,12/7/2004 0:00,12,2004,Euro Shopping Channel
+21,100.0,1/6/2005 0:00,1,2005,Suominen Souveniers
+46,41.54,2/10/2005 0:00,2,2005,Euro Shopping Channel
+46,52.84,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+55,52.66,5/17/2005 0:00,5,2005,Salzburg Collectables
+31,52.6,2/17/2003 0:00,2,2003,Rovelli Gifts
+20,72.98,4/28/2003 0:00,4,2003,Salzburg Collectables
+29,59.18,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+33,77.59,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+34,55.89,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+32,63.12,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+27,73.64,11/8/2003 0:00,11,2003,Alpha Cognac
+21,69.04,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+27,71.67,11/27/2003 0:00,11,2003,Cruz & Sons Co.
+36,77.59,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+43,70.35,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+25,69.7,5/8/2004 0:00,5,2004,Cambridge Collectables Co.
+46,70.35,6/24/2004 0:00,6,2004,Euro Shopping Channel
+24,72.33,7/21/2004 0:00,7,2004,Collectables For Less Inc.
+39,71.67,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+31,53.92,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+22,71.67,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+47,76.93,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+20,72.98,11/12/2004 0:00,11,2004,Rovelli Gifts
+29,99.69,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+38,68.38,12/3/2004 0:00,12,2004,"Stylish Desk Decors, Co."
+34,100.0,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+46,66.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+35,63.76,3/1/2005 0:00,3,2005,Euro Shopping Channel
+34,71.67,3/30/2005 0:00,3,2005,Reims Collectables
+38,57.2,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+18,69.7,5/9/2005 0:00,5,2005,"Australian Collectables, Ltd"
+37,100.0,3/18/2003 0:00,3,2003,"AV Stores, Co."
+43,100.0,5/21/2003 0:00,5,2003,Signal Gift Stores
+27,100.0,9/11/2003 0:00,9,2003,"Anna's Decorations, Ltd"
+30,100.0,10/17/2003 0:00,10,2003,Heintze Collectables
+22,98.51,11/5/2003 0:00,11,2003,Gift Depot Inc.
+49,100.0,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+46,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+48,91.02,12/2/2003 0:00,12,2003,Muscle Machine Inc
+46,87.81,1/16/2004 0:00,1,2004,Euro Shopping Channel
+48,92.09,2/26/2004 0:00,2,2004,Collectable Mini Designs Co.
+27,86.73,4/13/2004 0:00,4,2004,Mini Caravy
+43,100.0,7/7/2004 0:00,7,2004,Muscle Machine Inc
+48,100.0,8/9/2004 0:00,8,2004,Euro Shopping Channel
+41,100.0,9/1/2004 0:00,9,2004,Handji Gifts& Co
+22,96.37,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+46,92.09,10/16/2004 0:00,10,2004,Euro Shopping Channel
+21,89.95,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+31,37.18,11/17/2004 0:00,11,2004,"AV Stores, Co."
+26,95.88,11/29/2004 0:00,11,2004,Signal Gift Stores
+20,99.58,1/19/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+34,100.0,2/16/2005 0:00,2,2005,Euro Shopping Channel
+43,86.73,4/22/2005 0:00,4,2005,The Sharp Gifts Warehouse
+26,100.0,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+50,79.67,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+35,90.57,4/28/2003 0:00,4,2003,Salzburg Collectables
+50,77.99,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+23,80.51,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+37,67.93,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+29,83.86,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+21,72.12,11/8/2003 0:00,11,2003,Alpha Cognac
+36,85.54,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+22,86.38,11/26/2003 0:00,11,2003,Enaco Distributors
+22,89.73,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+46,80.51,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+23,76.31,5/7/2004 0:00,5,2004,Land of Toys Inc.
+49,87.21,6/24/2004 0:00,6,2004,Euro Shopping Channel
+48,83.02,7/21/2004 0:00,7,2004,Petit Auto
+33,72.96,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+22,77.15,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+22,91.41,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+25,92.25,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+20,92.25,11/9/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+42,59.36,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+25,60.34,12/2/2004 0:00,12,2004,Euro Shopping Channel
+23,100.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+37,85.54,2/28/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+37,90.57,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+42,72.96,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+51,76.31,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+40,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+43,100.0,5/8/2003 0:00,5,2003,Marseille Mini Autos
+47,100.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+23,100.0,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+35,100.0,10/11/2003 0:00,10,2003,"Men 'R' US Retailers, Ltd."
+34,100.0,11/4/2003 0:00,11,2003,Mini Auto Werke
+25,100.0,11/12/2003 0:00,11,2003,Herkku Gifts
+45,100.0,11/20/2003 0:00,11,2003,Online Diecast Creations Co.
+47,100.0,12/2/2003 0:00,12,2003,Euro Shopping Channel
+49,100.0,1/16/2004 0:00,1,2004,Euro Shopping Channel
+40,100.0,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+29,100.0,4/12/2004 0:00,4,2004,"Oulu Toy Supplies, Inc."
+39,100.0,6/1/2004 0:00,6,2004,"UK Collectables, Ltd."
+24,100.0,7/6/2004 0:00,7,2004,L'ordine Souveniers
+25,100.0,8/6/2004 0:00,8,2004,Signal Gift Stores
+36,100.0,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+50,100.0,10/5/2003 0:00,10,2003,"Norway Gifts By Mail, Co."
+45,100.0,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+26,100.0,11/4/2004 0:00,11,2004,FunGiftIdeas.com
+21,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+42,100.0,11/24/2004 0:00,11,2004,"Australian Collectors, Co."
+32,100.0,12/7/2004 0:00,12,2004,Euro Shopping Channel
+31,94.58,1/6/2005 0:00,1,2005,Suominen Souveniers
+33,53.27,2/10/2005 0:00,2,2005,Euro Shopping Channel
+45,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+76,100.0,4/14/2005 0:00,4,2005,Mini Caravy
+70,100.0,5/17/2005 0:00,5,2005,Salzburg Collectables
+50,64.83,2/17/2003 0:00,2,2003,Rovelli Gifts
+28,70.29,4/28/2003 0:00,4,2003,Salzburg Collectables
+50,81.89,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+28,66.19,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+44,77.11,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+27,73.02,10/28/2003 0:00,10,2003,Technics Stores Inc.
+30,72.33,11/8/2003 0:00,11,2003,Alpha Cognac
+43,66.19,11/27/2003 0:00,11,2003,Cruz & Sons Co.
+29,69.6,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+48,56.64,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+33,60.05,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+40,75.06,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+48,61.42,6/24/2004 0:00,6,2004,Euro Shopping Channel
+41,81.89,7/23/2004 0:00,7,2004,La Rochelle Gifts
+21,55.96,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+32,71.65,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+43,76.43,10/15/2004 0:00,10,2004,Mini Classics
+30,77.79,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+35,76.43,11/12/2004 0:00,11,2004,Rovelli Gifts
+45,96.92,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+34,59.37,12/3/2004 0:00,12,2004,"Stylish Desk Decors, Co."
+26,100.0,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+39,73.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+41,73.32,3/1/2005 0:00,3,2005,Euro Shopping Channel
+41,68.24,3/30/2005 0:00,3,2005,Reims Collectables
+64,60.05,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+18,75.06,5/10/2005 0:00,5,2005,L'ordine Souveniers
+49,34.47,1/6/2003 0:00,1,2003,Online Diecast Creations Co.
+48,34.47,3/18/2003 0:00,3,2003,"AV Stores, Co."
+46,33.23,5/21/2003 0:00,5,2003,Signal Gift Stores
+26,38.98,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+37,38.98,10/18/2003 0:00,10,2003,Corporate Gift Ideas Co.
+35,33.23,11/5/2003 0:00,11,2003,Rovelli Gifts
+23,42.26,11/12/2003 0:00,11,2003,Mini Gifts Distributors Ltd.
+22,41.03,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+39,33.23,12/2/2003 0:00,12,2003,Muscle Machine Inc
+44,34.88,1/26/2004 0:00,1,2004,"Corrida Auto Replicas, Ltd"
+27,43.9,3/2/2004 0:00,3,2004,"Saveley & Henriot, Co."
+46,36.93,4/20/2004 0:00,4,2004,Microscale Inc.
+33,41.85,8/17/2004 0:00,8,2004,Amica Models & Co.
+33,40.62,9/1/2004 0:00,9,2004,Handji Gifts& Co
+24,40.21,10/6/2004 0:00,10,2004,"Iberia Gift Imports, Corp."
+31,35.29,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+41,77.24,11/17/2004 0:00,11,2004,"AV Stores, Co."
+22,97.44,11/29/2004 0:00,11,2004,Signal Gift Stores
+46,37.34,1/19/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+43,95.03,2/16/2005 0:00,2,2005,Euro Shopping Channel
+15,36.93,4/22/2005 0:00,4,2005,"Tokyo Collectables, Ltd"
+15,43.49,5/29/2005 0:00,5,2005,Souveniers And Things Co.
+26,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+44,100.0,4/4/2003 0:00,4,2003,Classic Legends Inc.
+20,96.99,6/3/2003 0:00,6,2003,Muscle Machine Inc
+40,94.62,8/1/2003 0:00,8,2003,Suominen Souveniers
+23,100.0,9/25/2003 0:00,9,2003,"Australian Gift Network, Co"
+24,99.36,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+29,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+49,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+34,100.0,11/25/2003 0:00,11,2003,Mini Classics
+28,100.0,12/9/2003 0:00,12,2003,Diecast Collectables
+37,100.0,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+45,100.0,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+46,100.0,5/5/2004 0:00,5,2004,Euro Shopping Channel
+22,100.0,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+39,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+27,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+36,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+38,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+44,100.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+31,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+23,100.0,12/1/2004 0:00,12,2004,Muscle Machine Inc
+22,100.0,12/15/2004 0:00,12,2004,Reims Collectables
+28,50.32,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+21,93.91,2/22/2005 0:00,2,2005,Euro Shopping Channel
+37,100.0,3/15/2005 0:00,3,2005,Euro Shopping Channel
+31,100.0,5/3/2005 0:00,5,2005,Euro Shopping Channel
+25,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+26,86.68,3/25/2003 0:00,3,2003,Mini Wheels Co.
+34,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+29,100.0,7/16/2003 0:00,7,2003,Souveniers And Things Co.
+20,90.57,9/12/2003 0:00,9,2003,Signal Collectibles Ltd.
+42,91.55,10/20/2003 0:00,10,2003,Classic Legends Inc.
+22,100.0,11/5/2003 0:00,11,2003,Rovelli Gifts
+47,100.0,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+20,100.0,11/21/2003 0:00,11,2003,"Australian Collectables, Ltd"
+33,97.39,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+39,90.57,1/29/2004 0:00,1,2004,West Coast Collectables Co.
+33,100.0,3/10/2004 0:00,3,2004,Cambridge Collectables Co.
+40,86.68,4/29/2004 0:00,4,2004,Euro Shopping Channel
+46,78.89,6/14/2004 0:00,6,2004,The Sharp Gifts Warehouse
+48,97.39,7/16/2004 0:00,7,2004,Salzburg Collectables
+21,78.89,8/17/2004 0:00,8,2004,Amica Models & Co.
+45,100.0,9/7/2004 0:00,9,2004,Auto-Moto Classics Inc.
+33,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+44,100.0,10/21/2004 0:00,10,2004,Mini Gifts Distributors Ltd.
+33,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+39,100.0,11/18/2004 0:00,11,2004,Mini Wheels Co.
+39,50.31,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+41,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+40,86.92,1/20/2005 0:00,1,2005,Collectables For Less Inc.
+33,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+28,78.89,5/30/2005 0:00,5,2005,Petit Auto
+26,63.76,2/17/2003 0:00,2,2003,Rovelli Gifts
+29,85.49,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+46,77.52,6/27/2003 0:00,6,2003,Euro Shopping Channel
+33,84.77,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+48,78.25,10/28/2003 0:00,10,2003,Technics Stores Inc.
+40,71.0,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+23,74.62,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+40,81.14,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+37,74.62,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+24,75.35,6/28/2004 0:00,6,2004,Gift Depot Inc.
+27,62.31,7/23/2004 0:00,7,2004,La Rochelle Gifts
+21,71.0,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+23,72.45,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+44,83.32,10/15/2004 0:00,10,2004,Mini Classics
+35,83.32,11/2/2004 0:00,11,2004,Technics Stores Inc.
+43,60.86,11/12/2004 0:00,11,2004,Rovelli Gifts
+40,84.77,11/24/2004 0:00,11,2004,Enaco Distributors
+35,89.9,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+25,62.46,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+43,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+50,63.34,3/1/2005 0:00,3,2005,Euro Shopping Channel
+45,78.25,3/30/2005 0:00,3,2005,Reims Collectables
+52,81.14,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+48,74.62,5/10/2005 0:00,5,2005,L'ordine Souveniers
+31,68.71,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+29,71.14,5/8/2003 0:00,5,2003,Marseille Mini Autos
+23,87.31,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+31,64.67,9/5/2003 0:00,9,2003,Collectables For Less Inc.
+23,67.1,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+24,94.58,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+28,71.14,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+44,66.29,11/20/2003 0:00,11,2003,"Toms Spezialitten, Ltd"
+22,92.16,1/15/2004 0:00,1,2004,Auto Canal Petit
+46,70.33,2/22/2004 0:00,2,2004,"Vida Sport, Ltd"
+22,93.77,4/9/2004 0:00,4,2004,Danish Wholesale Imports
+38,87.31,5/26/2004 0:00,5,2004,Auto Canal Petit
+47,83.27,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+48,75.18,8/2/2004 0:00,8,2004,Online Mini Collectables
+40,88.12,8/30/2004 0:00,8,2004,"Vida Sport, Ltd"
+32,80.84,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+49,97.01,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+43,85.69,11/3/2004 0:00,11,2004,Microscale Inc.
+41,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+30,100.0,11/24/2004 0:00,11,2004,Reims Collectables
+28,95.39,12/7/2004 0:00,12,2004,Euro Shopping Channel
+43,100.0,1/6/2005 0:00,1,2005,Suominen Souveniers
+41,100.0,2/10/2005 0:00,2,2005,Euro Shopping Channel
+30,82.42,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+31,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+32,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+43,96.31,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+26,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+27,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+24,100.0,10/21/2003 0:00,10,2003,Mini Auto Werke
+22,100.0,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+46,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+37,97.27,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+49,80.9,12/9/2003 0:00,12,2003,Diecast Collectables
+21,100.0,2/4/2004 0:00,2,2004,Handji Gifts& Co
+25,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+37,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+45,86.68,6/15/2004 0:00,6,2004,Handji Gifts& Co
+32,85.72,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+29,82.83,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+26,83.79,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+28,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+27,87.64,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+20,98.18,11/5/2004 0:00,11,2004,Vitachrome Inc.
+44,100.0,11/19/2004 0:00,11,2004,Mini Gifts Distributors Ltd.
+42,100.0,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+41,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+26,100.0,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+26,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+26,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+41,86.68,5/31/2005 0:00,5,2005,La Rochelle Gifts
+20,92.9,2/24/2003 0:00,2,2003,Land of Toys Inc.
+22,100.0,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+23,100.0,6/27/2003 0:00,6,2003,Euro Shopping Channel
+33,93.9,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+28,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+44,98.89,11/18/2003 0:00,11,2003,Herkku Gifts
+46,79.91,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+21,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+41,100.0,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+31,100.0,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+31,79.91,6/28/2004 0:00,6,2004,Gift Depot Inc.
+23,81.91,7/23/2004 0:00,7,2004,La Rochelle Gifts
+37,98.89,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+26,100.0,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+24,79.91,10/15/2004 0:00,10,2004,Mini Classics
+47,100.0,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+45,63.91,11/15/2004 0:00,11,2004,Land of Toys Inc.
+55,100.0,11/24/2004 0:00,11,2004,Enaco Distributors
+46,81.17,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+50,100.0,1/6/2005 0:00,1,2005,Suominen Souveniers
+37,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+44,94.9,3/2/2005 0:00,3,2005,"Dragon Souveniers, Ltd."
+49,100.0,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+45,100.0,5/10/2005 0:00,5,2005,L'ordine Souveniers
+27,43.45,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+31,44.66,5/8/2003 0:00,5,2003,Marseille Mini Autos
+33,40.23,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+31,35.8,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+35,35.4,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+26,39.83,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+34,45.46,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+46,32.99,11/19/2003 0:00,11,2003,Euro Shopping Channel
+41,42.24,1/15/2004 0:00,1,2004,Auto Canal Petit
+43,39.43,2/21/2004 0:00,2,2004,Daedalus Designs Imports
+26,40.23,4/5/2004 0:00,4,2004,Vitachrome Inc.
+36,48.28,5/26/2004 0:00,5,2004,Auto Canal Petit
+20,32.59,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+27,36.61,8/2/2004 0:00,8,2004,Online Mini Collectables
+37,41.03,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+24,42.24,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+36,43.05,10/16/2004 0:00,10,2004,"Toms Spezialitten, Ltd"
+29,38.22,11/3/2004 0:00,11,2004,Microscale Inc.
+28,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+29,100.0,11/24/2004 0:00,11,2004,Reims Collectables
+38,39.83,12/7/2004 0:00,12,2004,Euro Shopping Channel
+48,48.28,1/6/2005 0:00,1,2005,Marseille Mini Autos
+40,82.46,2/10/2005 0:00,2,2005,Euro Shopping Channel
+41,44.56,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+30,40.23,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+35,47.62,1/31/2003 0:00,1,2003,Euro Shopping Channel
+28,55.73,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+45,51.95,6/3/2003 0:00,6,2003,Muscle Machine Inc
+24,45.99,8/1/2003 0:00,8,2003,Suominen Souveniers
+41,63.85,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+48,45.99,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+50,63.31,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+33,62.77,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+32,43.29,11/25/2003 0:00,11,2003,Mini Classics
+27,60.06,12/9/2003 0:00,12,2003,Diecast Collectables
+35,55.19,2/10/2004 0:00,2,2004,Signal Collectibles Ltd.
+23,54.11,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+35,48.7,5/5/2004 0:00,5,2004,Euro Shopping Channel
+40,43.83,6/15/2004 0:00,6,2004,Handji Gifts& Co
+35,47.62,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+31,55.19,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+50,46.53,9/8/2004 0:00,9,2004,Land of Toys Inc.
+40,57.9,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+38,45.45,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+38,100.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+40,60.6,11/19/2004 0:00,11,2004,Mini Gifts Distributors Ltd.
+33,46.53,12/1/2004 0:00,12,2004,Muscle Machine Inc
+36,100.0,12/15/2004 0:00,12,2004,Reims Collectables
+20,66.47,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+32,53.18,2/22/2005 0:00,2,2005,Euro Shopping Channel
+36,62.77,3/15/2005 0:00,3,2005,Euro Shopping Channel
+19,48.7,5/3/2005 0:00,5,2005,Euro Shopping Channel
+11,43.83,5/31/2005 0:00,5,2005,La Rochelle Gifts
+49,65.87,1/31/2003 0:00,1,2003,Euro Shopping Channel
+27,63.38,4/11/2003 0:00,4,2003,Royale Belge
+29,70.84,6/3/2003 0:00,6,2003,Muscle Machine Inc
+42,74.57,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+33,50.95,9/25/2003 0:00,9,2003,"Australian Gift Network, Co"
+44,53.44,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+22,64.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+48,50.95,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+33,54.68,11/25/2003 0:00,11,2003,Mini Classics
+45,56.55,12/9/2003 0:00,12,2003,Diecast Collectables
+20,52.82,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+46,60.9,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+40,49.71,5/5/2004 0:00,5,2004,Suominen Souveniers
+45,64.63,7/20/2004 0:00,7,2004,Diecast Classics Inc.
+36,59.65,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+31,67.73,9/8/2004 0:00,9,2004,Land of Toys Inc.
+46,50.33,10/14/2004 0:00,10,2004,"AV Stores, Co."
+35,66.49,10/22/2004 0:00,10,2004,Heintze Collectables
+28,100.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+31,84.71,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+27,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+22,100.0,12/15/2004 0:00,12,2004,Reims Collectables
+30,99.55,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+44,36.07,2/22/2005 0:00,2,2005,Euro Shopping Channel
+30,60.28,3/15/2005 0:00,3,2005,Euro Shopping Channel
+24,49.71,5/5/2005 0:00,5,2005,Gift Depot Inc.
+45,75.63,1/29/2003 0:00,1,2003,Baane Mini Imports
+23,68.52,3/26/2003 0:00,3,2003,Mini Gifts Distributors Ltd.
+26,62.7,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+28,60.76,7/24/2003 0:00,7,2003,Technics Stores Inc.
+49,58.18,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+49,54.94,10/21/2003 0:00,10,2003,Mini Auto Werke
+29,74.98,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+49,64.64,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+39,54.94,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+36,58.82,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+39,62.05,2/4/2004 0:00,2,2004,Handji Gifts& Co
+30,73.04,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+44,69.16,5/4/2004 0:00,5,2004,Super Scale Inc.
+20,61.41,6/15/2004 0:00,6,2004,"Tokyo Collectables, Ltd"
+21,63.35,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+36,77.57,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+32,71.75,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+36,73.04,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+34,56.24,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+48,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+33,73.69,11/18/2004 0:00,11,2004,Mini Wheels Co.
+31,100.0,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+36,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+25,100.0,1/20/2005 0:00,1,2005,"Anna's Decorations, Ltd"
+48,100.0,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+27,69.16,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+44,61.41,5/31/2005 0:00,5,2005,Euro Shopping Channel
+33,72.92,2/17/2003 0:00,2,2003,Rovelli Gifts
+29,72.23,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+49,57.1,6/27/2003 0:00,6,2003,Euro Shopping Channel
+20,81.86,8/13/2003 0:00,8,2003,Royale Belge
+31,73.61,10/28/2003 0:00,10,2003,Technics Stores Inc.
+39,59.16,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+20,66.04,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+34,77.73,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+50,61.22,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+40,79.11,6/24/2004 0:00,6,2004,Euro Shopping Channel
+28,63.97,7/23/2004 0:00,7,2004,La Rochelle Gifts
+50,81.86,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+28,79.8,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+46,66.04,10/15/2004 0:00,10,2004,Mini Classics
+24,59.16,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+24,81.17,11/12/2004 0:00,11,2004,Rovelli Gifts
+39,59.16,11/24/2004 0:00,11,2004,Enaco Distributors
+40,44.51,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+49,72.33,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+44,82.26,2/3/2005 0:00,2,2005,La Rochelle Gifts
+35,100.0,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+22,67.41,3/30/2005 0:00,3,2005,Reims Collectables
+62,77.73,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+26,61.22,5/10/2005 0:00,5,2005,L'ordine Souveniers
+31,100.0,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+25,86.74,5/7/2003 0:00,5,2003,Reims Collectables
+30,89.8,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+27,100.0,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+23,100.0,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+34,100.0,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+22,100.0,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+42,85.72,11/19/2003 0:00,11,2003,Euro Shopping Channel
+37,100.0,1/15/2004 0:00,1,2004,Auto Canal Petit
+30,100.0,2/21/2004 0:00,2,2004,Daedalus Designs Imports
+27,100.0,4/5/2004 0:00,4,2004,Vitachrome Inc.
+25,100.0,5/26/2004 0:00,5,2004,Auto Canal Petit
+34,97.97,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+38,100.0,8/2/2004 0:00,8,2004,Online Mini Collectables
+26,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+38,100.0,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+50,84.7,10/15/2004 0:00,10,2004,Baane Mini Imports
+22,100.0,11/3/2004 0:00,11,2004,Microscale Inc.
+32,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+31,71.02,11/24/2004 0:00,11,2004,Salzburg Collectables
+40,100.0,12/7/2004 0:00,12,2004,Euro Shopping Channel
+22,100.0,1/7/2005 0:00,1,2005,Mini Creations Ltd.
+41,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+45,48.98,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+45,100.0,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+39,40.15,2/17/2003 0:00,2,2003,Rovelli Gifts
+49,50.62,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+27,50.19,6/27/2003 0:00,6,2003,Euro Shopping Channel
+34,36.66,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+20,41.02,10/8/2003 0:00,10,2003,Euro Shopping Channel
+48,51.93,10/28/2003 0:00,10,2003,Technics Stores Inc.
+29,38.4,12/1/2003 0:00,12,2003,West Coast Collectables Co.
+43,41.02,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+41,46.26,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+41,35.35,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+36,51.93,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+49,37.97,6/24/2004 0:00,6,2004,Euro Shopping Channel
+38,45.39,7/23/2004 0:00,7,2004,La Rochelle Gifts
+33,51.93,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+26,48.44,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+47,43.64,10/15/2004 0:00,10,2004,Mini Classics
+34,47.57,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+34,51.93,11/12/2004 0:00,11,2004,Rovelli Gifts
+40,50.62,11/24/2004 0:00,11,2004,Enaco Distributors
+40,82.21,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+33,82.59,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+49,65.8,2/3/2005 0:00,2,2005,La Rochelle Gifts
+27,100.0,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+49,36.66,3/30/2005 0:00,3,2005,Reims Collectables
+56,35.35,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+37,51.93,5/10/2005 0:00,5,2005,L'ordine Souveniers
+33,100.0,1/31/2003 0:00,1,2003,Euro Shopping Channel
+27,100.0,4/4/2003 0:00,4,2003,Classic Legends Inc.
+46,100.0,6/3/2003 0:00,6,2003,Muscle Machine Inc
+44,100.0,8/1/2003 0:00,8,2003,Suominen Souveniers
+26,100.0,9/21/2003 0:00,9,2003,"Oulu Toy Supplies, Inc."
+48,94.92,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+23,100.0,11/6/2003 0:00,11,2003,L'ordine Souveniers
+45,100.0,11/14/2003 0:00,11,2003,"Iberia Gift Imports, Corp."
+49,100.0,11/25/2003 0:00,11,2003,Mini Classics
+28,94.92,12/9/2003 0:00,12,2003,Diecast Collectables
+37,100.0,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+34,100.0,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+22,100.0,5/5/2004 0:00,5,2004,Euro Shopping Channel
+29,100.0,6/15/2004 0:00,6,2004,Handji Gifts& Co
+34,98.39,7/20/2004 0:00,7,2004,Mini Gifts Distributors Ltd.
+38,100.0,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+41,100.0,9/8/2004 0:00,9,2004,Land of Toys Inc.
+42,100.0,10/13/2004 0:00,10,2004,Marta's Replicas Co.
+28,100.0,10/22/2004 0:00,10,2004,Heintze Collectables
+38,100.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+23,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+31,71.4,12/2/2004 0:00,12,2004,Euro Shopping Channel
+46,100.0,12/15/2004 0:00,12,2004,Reims Collectables
+48,56.55,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+29,100.0,2/22/2005 0:00,2,2005,Euro Shopping Channel
+46,100.0,3/17/2005 0:00,3,2005,Lyon Souveniers
+26,100.0,5/3/2005 0:00,5,2005,Euro Shopping Channel
+18,100.0,5/31/2005 0:00,5,2005,La Rochelle Gifts
+32,53.31,1/31/2003 0:00,1,2003,Euro Shopping Channel
+21,49.21,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+46,69.12,6/3/2003 0:00,6,2003,Muscle Machine Inc
+42,49.79,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+31,57.41,9/28/2003 0:00,9,2003,Euro Shopping Channel
+38,66.78,10/22/2003 0:00,10,2003,"Dragon Souveniers, Ltd."
+38,64.44,11/6/2003 0:00,11,2003,L'ordine Souveniers
+20,48.62,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+46,62.09,11/26/2003 0:00,11,2003,Super Scale Inc.
+30,65.61,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+30,68.54,2/12/2004 0:00,2,2004,"Clover Collections, Co."
+43,52.14,3/15/2004 0:00,3,2004,"Blauer See Auto, Co."
+49,63.85,5/5/2004 0:00,5,2004,Suominen Souveniers
+43,56.82,7/20/2004 0:00,7,2004,Diecast Classics Inc.
+37,66.78,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+35,55.07,9/8/2004 0:00,9,2004,Land of Toys Inc.
+34,60.34,10/14/2004 0:00,10,2004,"AV Stores, Co."
+38,61.51,10/22/2004 0:00,10,2004,Heintze Collectables
+44,100.0,11/5/2004 0:00,11,2004,Baane Mini Imports
+21,100.0,11/21/2004 0:00,11,2004,Classic Legends Inc.
+44,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+25,64.93,12/15/2004 0:00,12,2004,Reims Collectables
+24,58.58,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+38,60.06,2/22/2005 0:00,2,2005,Euro Shopping Channel
+45,100.0,3/17/2005 0:00,3,2005,Lyon Souveniers
+51,63.85,5/5/2005 0:00,5,2005,Gift Depot Inc.
+34,82.99,3/3/2003 0:00,3,2003,Cruz & Sons Co.
+44,74.85,5/7/2003 0:00,5,2003,Reims Collectables
+44,96.0,7/2/2003 0:00,7,2003,Mini Gifts Distributors Ltd.
+38,81.36,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+31,71.6,10/10/2003 0:00,10,2003,Corporate Gift Ideas Co.
+48,80.55,11/4/2003 0:00,11,2003,"Anna's Decorations, Ltd"
+21,93.56,11/11/2003 0:00,11,2003,Daedalus Designs Imports
+40,66.72,11/19/2003 0:00,11,2003,Euro Shopping Channel
+40,80.55,1/15/2004 0:00,1,2004,Auto Canal Petit
+50,77.29,2/21/2004 0:00,2,2004,Daedalus Designs Imports
+20,68.34,4/5/2004 0:00,4,2004,Vitachrome Inc.
+48,72.41,5/26/2004 0:00,5,2004,Auto Canal Petit
+47,89.5,6/30/2004 0:00,6,2004,Gifts4AllAges.com
+21,70.78,8/2/2004 0:00,8,2004,Online Mini Collectables
+39,78.92,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+44,80.55,9/30/2004 0:00,9,2004,"Toys of Finland, Co."
+28,88.68,10/15/2004 0:00,10,2004,Baane Mini Imports
+45,77.29,11/3/2004 0:00,11,2004,Microscale Inc.
+20,100.0,11/17/2004 0:00,11,2004,Motor Mint Distributors Inc.
+38,100.0,11/24/2004 0:00,11,2004,Salzburg Collectables
+26,100.0,12/9/2004 0:00,12,2004,Lyon Souveniers
+44,100.0,1/7/2005 0:00,1,2005,Mini Creations Ltd.
+49,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+22,100.0,3/4/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+31,68.34,4/8/2005 0:00,4,2005,"UK Collectables, Ltd."
+41,70.67,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+25,76.67,4/28/2003 0:00,4,2003,Salzburg Collectables
+31,60.0,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+41,64.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+43,64.67,9/28/2003 0:00,9,2003,Euro Shopping Channel
+43,75.34,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+24,76.0,11/7/2003 0:00,11,2003,CAF Imports
+21,54.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+23,64.67,11/26/2003 0:00,11,2003,Enaco Distributors
+38,74.67,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+31,62.67,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+36,70.67,3/29/2004 0:00,3,2004,Tekni Collectables Inc.
+36,71.34,5/7/2004 0:00,5,2004,Land of Toys Inc.
+34,62.0,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+21,65.34,7/21/2004 0:00,7,2004,Petit Auto
+45,78.67,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+26,75.34,9/10/2004 0:00,9,2004,Gifts4AllAges.com
+50,54.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+41,62.0,10/29/2004 0:00,10,2004,La Rochelle Gifts
+39,60.0,11/9/2004 0:00,11,2004,"Volvo Model Replicas, Co"
+22,100.0,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+46,76.67,12/2/2004 0:00,12,2004,Euro Shopping Channel
+44,100.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+25,77.34,2/28/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+39,66.67,3/23/2005 0:00,3,2005,Mini Gifts Distributors Ltd.
+37,71.34,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+31,100.0,2/17/2003 0:00,2,2003,Rovelli Gifts
+47,82.21,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+24,77.64,6/27/2003 0:00,6,2003,Euro Shopping Channel
+36,100.0,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+48,100.0,10/8/2003 0:00,10,2003,Euro Shopping Channel
+28,98.65,10/28/2003 0:00,10,2003,Technics Stores Inc.
+48,83.12,12/1/2003 0:00,12,2003,West Coast Collectables Co.
+21,78.55,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+25,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+25,100.0,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+31,91.34,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+40,84.03,6/24/2004 0:00,6,2004,Euro Shopping Channel
+32,89.51,7/23/2004 0:00,7,2004,La Rochelle Gifts
+24,83.12,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+42,100.0,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+21,100.0,10/15/2004 0:00,10,2004,Mini Classics
+34,82.21,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+27,100.0,11/12/2004 0:00,11,2004,Rovelli Gifts
+30,88.6,11/24/2004 0:00,11,2004,Enaco Distributors
+39,100.0,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+20,60.54,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+37,81.87,2/3/2005 0:00,2,2005,La Rochelle Gifts
+46,100.0,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+47,87.69,3/30/2005 0:00,3,2005,Reims Collectables
+11,100.0,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+23,91.34,5/10/2005 0:00,5,2005,L'ordine Souveniers
+29,70.15,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+38,79.68,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+32,97.0,6/6/2003 0:00,6,2003,Euro Shopping Channel
+43,84.01,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+31,87.48,9/28/2003 0:00,9,2003,Euro Shopping Channel
+29,100.0,10/21/2003 0:00,10,2003,FunGiftIdeas.com
+31,88.34,11/7/2003 0:00,11,2003,CAF Imports
+30,94.4,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+50,94.4,11/26/2003 0:00,11,2003,Super Scale Inc.
+40,80.55,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+23,97.0,2/18/2004 0:00,2,2004,Petit Auto
+26,88.34,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+40,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+21,100.0,7/21/2004 0:00,7,2004,Petit Auto
+43,86.61,8/20/2004 0:00,8,2004,Mini Gifts Distributors Ltd.
+29,71.89,9/9/2004 0:00,9,2004,Amica Models & Co.
+38,91.81,10/14/2004 0:00,10,2004,"AV Stores, Co."
+23,76.22,10/22/2004 0:00,10,2004,Heintze Collectables
+20,100.0,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+36,70.3,11/21/2004 0:00,11,2004,Classic Legends Inc.
+28,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+44,100.0,1/26/2005 0:00,1,2005,"Tokyo Collectables, Ltd"
+49,100.0,2/23/2005 0:00,2,2005,Corporate Gift Ideas Co.
+32,80.55,3/28/2005 0:00,3,2005,Alpha Cognac
+34,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+30,100.0,2/17/2003 0:00,2,2003,Rovelli Gifts
+29,94.14,4/28/2003 0:00,4,2003,Salzburg Collectables
+22,85.99,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+26,100.0,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+32,91.43,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+29,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+34,96.86,11/8/2003 0:00,11,2003,Alpha Cognac
+24,99.57,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+24,90.52,11/26/2003 0:00,11,2003,Enaco Distributors
+33,88.71,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+26,100.0,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+40,95.95,5/8/2004 0:00,5,2004,Cambridge Collectables Co.
+44,94.14,6/24/2004 0:00,6,2004,Euro Shopping Channel
+24,90.52,7/21/2004 0:00,7,2004,Collectables For Less Inc.
+20,94.14,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+34,100.0,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+34,97.76,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+45,93.24,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+41,100.0,11/12/2004 0:00,11,2004,Rovelli Gifts
+55,71.25,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+23,100.0,12/3/2004 0:00,12,2004,Auto-Moto Classics Inc.
+24,45.39,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+32,84.41,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+29,85.76,3/1/2005 0:00,3,2005,Euro Shopping Channel
+36,100.0,3/30/2005 0:00,3,2005,Reims Collectables
+46,87.8,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+32,95.95,5/9/2005 0:00,5,2005,"Australian Collectables, Ltd"
+34,100.0,2/17/2003 0:00,2,2003,Rovelli Gifts
+24,100.0,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+40,100.0,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+26,82.77,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+20,100.0,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+31,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+22,87.75,11/8/2003 0:00,11,2003,Alpha Cognac
+42,100.0,11/27/2003 0:00,11,2003,Cruz & Sons Co.
+26,99.72,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+37,87.75,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+38,88.75,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+35,100.0,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+33,90.75,6/24/2004 0:00,6,2004,Euro Shopping Channel
+39,100.0,7/23/2004 0:00,7,2004,La Rochelle Gifts
+45,100.0,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+24,100.0,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+35,88.75,10/15/2004 0:00,10,2004,Mini Classics
+23,100.0,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+37,100.0,11/12/2004 0:00,11,2004,Rovelli Gifts
+55,87.75,11/24/2004 0:00,11,2004,Enaco Distributors
+49,100.0,12/3/2004 0:00,12,2004,Auto-Moto Classics Inc.
+26,100.0,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+33,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+37,83.84,3/1/2005 0:00,3,2005,Euro Shopping Channel
+22,86.76,3/30/2005 0:00,3,2005,Reims Collectables
+85,88.75,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+22,100.0,5/10/2005 0:00,5,2005,L'ordine Souveniers
+31,65.77,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+38,65.77,4/28/2003 0:00,4,2003,Salzburg Collectables
+45,85.29,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+31,85.29,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+36,64.33,10/2/2003 0:00,10,2003,Boards & Toys Co.
+46,70.11,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+32,76.62,11/7/2003 0:00,11,2003,CAF Imports
+39,57.82,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+50,78.79,11/26/2003 0:00,11,2003,Enaco Distributors
+46,74.45,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+36,80.95,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+29,82.4,3/29/2004 0:00,3,2004,Tekni Collectables Inc.
+32,75.89,5/7/2004 0:00,5,2004,Land of Toys Inc.
+44,68.67,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+42,62.16,7/21/2004 0:00,7,2004,Petit Auto
+47,65.77,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+44,58.55,9/10/2004 0:00,9,2004,Gifts4AllAges.com
+43,75.17,10/14/2004 0:00,10,2004,"AV Stores, Co."
+48,74.45,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+21,96.31,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+50,74.35,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+29,75.35,12/2/2004 0:00,12,2004,Euro Shopping Channel
+41,70.33,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+37,100.0,3/1/2005 0:00,3,2005,Euro Shopping Channel
+22,66.5,3/28/2005 0:00,3,2005,Alpha Cognac
+31,75.89,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+42,100.0,1/29/2003 0:00,1,2003,Baane Mini Imports
+42,100.0,4/1/2003 0:00,4,2003,"La Corne D'abondance, Co."
+45,100.0,5/28/2003 0:00,5,2003,"Corrida Auto Replicas, Ltd"
+36,100.0,7/24/2003 0:00,7,2003,Technics Stores Inc.
+20,100.0,9/19/2003 0:00,9,2003,"Dragon Souveniers, Ltd."
+39,81.93,10/21/2003 0:00,10,2003,Mini Auto Werke
+42,85.98,11/6/2003 0:00,11,2003,"Stylish Desk Decors, Co."
+23,86.99,11/13/2003 0:00,11,2003,"Classic Gift Ideas, Inc"
+26,89.01,11/25/2003 0:00,11,2003,"Saveley & Henriot, Co."
+33,100.0,12/5/2003 0:00,12,2003,Canadian Gift Exchange Network
+31,88.0,2/4/2004 0:00,2,2004,Handji Gifts& Co
+50,100.0,3/11/2004 0:00,3,2004,Mini Gifts Distributors Ltd.
+44,100.0,5/4/2004 0:00,5,2004,Super Scale Inc.
+45,80.92,6/15/2004 0:00,6,2004,"Tokyo Collectables, Ltd"
+46,88.0,7/19/2004 0:00,7,2004,Souveniers And Things Co.
+27,85.98,8/19/2004 0:00,8,2004,Diecast Classics Inc.
+28,100.0,9/8/2004 0:00,9,2004,Scandinavian Gift Ideas
+40,100.0,10/11/2004 0:00,10,2004,Auto Assoc. & Cie.
+30,99.13,10/22/2004 0:00,10,2004,Canadian Gift Exchange Network
+34,100.0,11/5/2004 0:00,11,2004,Vitachrome Inc.
+46,100.0,11/20/2004 0:00,11,2004,"La Corne D'abondance, Co."
+32,82.83,11/1/2004 0:00,11,2004,"Corrida Auto Replicas, Ltd"
+27,100.0,12/10/2004 0:00,12,2004,Euro Shopping Channel
+34,100.0,1/23/2005 0:00,1,2005,Mini Gifts Distributors Ltd.
+34,54.84,2/17/2005 0:00,2,2005,Mini Gifts Distributors Ltd.
+34,100.0,5/1/2005 0:00,5,2005,Quebec Home Shopping Network
+46,80.92,5/31/2005 0:00,5,2005,Euro Shopping Channel
+32,100.0,2/17/2003 0:00,2,2003,Rovelli Gifts
+24,100.0,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+27,99.67,6/27/2003 0:00,6,2003,Euro Shopping Channel
+20,100.0,8/25/2003 0:00,8,2003,Toys4GrownUps.com
+36,100.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+29,100.0,11/18/2003 0:00,11,2003,Herkku Gifts
+25,100.0,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+29,100.0,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+25,96.11,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+44,100.0,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+47,100.0,6/28/2004 0:00,6,2004,Gift Depot Inc.
+48,100.0,7/23/2004 0:00,7,2004,La Rochelle Gifts
+45,100.0,8/27/2004 0:00,8,2004,Marta's Replicas Co.
+35,100.0,9/16/2004 0:00,9,2004,"Clover Collections, Co."
+31,100.0,10/15/2004 0:00,10,2004,Mini Classics
+50,100.0,11/2/2004 0:00,11,2004,Diecast Classics Inc.
+33,100.0,11/12/2004 0:00,11,2004,Rovelli Gifts
+29,100.0,11/24/2004 0:00,11,2004,Enaco Distributors
+48,68.8,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+44,72.42,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+25,66.73,2/3/2005 0:00,2,2005,La Rochelle Gifts
+50,100.0,3/3/2005 0:00,3,2005,FunGiftIdeas.com
+23,100.0,3/30/2005 0:00,3,2005,Reims Collectables
+21,96.11,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+41,100.0,5/10/2005 0:00,5,2005,L'ordine Souveniers
+44,74.4,2/17/2003 0:00,2,2003,Rovelli Gifts
+43,76.0,4/29/2003 0:00,4,2003,"Australian Collectors, Co."
+28,96.0,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+43,86.4,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+48,96.0,10/28/2003 0:00,10,2003,Technics Stores Inc.
+38,82.4,12/1/2003 0:00,12,2003,West Coast Collectables Co.
+31,86.4,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+26,67.2,2/20/2004 0:00,2,2004,"Australian Collectors, Co."
+32,92.0,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+44,67.2,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+27,76.0,6/24/2004 0:00,6,2004,Euro Shopping Channel
+43,73.6,7/23/2004 0:00,7,2004,La Rochelle Gifts
+25,69.6,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+22,80.8,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+21,87.2,10/15/2004 0:00,10,2004,Mini Classics
+48,75.2,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+33,64.0,11/12/2004 0:00,11,2004,Rovelli Gifts
+34,100.0,11/24/2004 0:00,11,2004,Salzburg Collectables
+43,81.95,12/4/2004 0:00,12,2004,Gift Ideas Corp.
+44,100.0,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+44,100.0,2/3/2005 0:00,2,2005,La Rochelle Gifts
+32,94.34,3/1/2005 0:00,3,2005,Euro Shopping Channel
+29,65.6,3/30/2005 0:00,3,2005,Reims Collectables
+77,92.0,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+39,67.2,5/10/2005 0:00,5,2005,L'ordine Souveniers
+39,81.14,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+36,100.0,4/21/2003 0:00,4,2003,Enaco Distributors
+42,91.15,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+21,100.0,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+50,88.15,9/28/2003 0:00,9,2003,Euro Shopping Channel
+24,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+44,92.16,11/7/2003 0:00,11,2003,CAF Imports
+37,100.0,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+27,92.16,11/26/2003 0:00,11,2003,Enaco Distributors
+37,100.0,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+38,100.0,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+48,96.16,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+30,100.0,5/7/2004 0:00,5,2004,Land of Toys Inc.
+25,88.15,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+40,86.15,7/21/2004 0:00,7,2004,Petit Auto
+22,88.15,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+34,100.0,9/10/2004 0:00,9,2004,Gifts4AllAges.com
+32,90.15,10/14/2004 0:00,10,2004,"AV Stores, Co."
+31,86.15,10/29/2004 0:00,10,2004,La Rochelle Gifts
+43,80.0,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+31,89.38,11/21/2004 0:00,11,2004,Classic Legends Inc.
+31,77.34,12/2/2004 0:00,12,2004,Euro Shopping Channel
+34,96.34,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+45,92.08,3/1/2005 0:00,3,2005,Euro Shopping Channel
+48,100.0,3/28/2005 0:00,3,2005,Alpha Cognac
+28,100.0,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+22,100.0,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+45,83.42,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+30,85.41,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+38,85.41,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+20,100.0,9/28/2003 0:00,9,2003,Euro Shopping Channel
+28,100.0,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+24,100.0,11/7/2003 0:00,11,2003,CAF Imports
+22,79.45,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+35,93.35,11/26/2003 0:00,11,2003,Enaco Distributors
+33,85.41,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+31,95.34,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+35,82.43,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+35,90.37,5/7/2004 0:00,5,2004,Land of Toys Inc.
+50,81.43,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+26,100.0,7/21/2004 0:00,7,2004,Petit Auto
+38,89.38,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+45,100.0,9/10/2004 0:00,9,2004,Online Mini Collectables
+30,100.0,10/14/2004 0:00,10,2004,"AV Stores, Co."
+37,91.37,10/29/2004 0:00,10,2004,La Rochelle Gifts
+37,86.61,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+36,71.89,11/21/2004 0:00,11,2004,Classic Legends Inc.
+25,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+37,100.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+30,95.48,3/1/2005 0:00,3,2005,Euro Shopping Channel
+36,100.0,3/28/2005 0:00,3,2005,Alpha Cognac
+27,90.37,5/6/2005 0:00,5,2005,Gifts4AllAges.com
+48,61.44,2/17/2003 0:00,2,2003,Rovelli Gifts
+26,59.22,4/28/2003 0:00,4,2003,Salzburg Collectables
+26,85.13,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+34,85.87,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+44,85.87,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+39,82.91,10/28/2003 0:00,10,2003,Technics Stores Inc.
+45,76.25,11/8/2003 0:00,11,2003,Alpha Cognac
+40,63.67,11/27/2003 0:00,11,2003,Cruz & Sons Co.
+42,70.33,1/12/2004 0:00,1,2004,Osaka Souveniers Co.
+43,74.03,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+34,72.55,4/2/2004 0:00,4,2004,"Royal Canadian Collectables, Ltd."
+38,62.19,5/11/2004 0:00,5,2004,The Sharp Gifts Warehouse
+35,71.07,6/24/2004 0:00,6,2004,Euro Shopping Channel
+31,72.55,7/23/2004 0:00,7,2004,La Rochelle Gifts
+32,64.41,8/21/2004 0:00,8,2004,"Norway Gifts By Mail, Co."
+47,86.62,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+39,68.11,10/15/2004 0:00,10,2004,Mini Classics
+44,62.19,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+39,85.87,11/12/2004 0:00,11,2004,Rovelli Gifts
+50,57.86,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+22,75.51,12/3/2004 0:00,12,2004,Auto-Moto Classics Inc.
+35,100.0,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+45,55.62,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+44,86.4,3/1/2005 0:00,3,2005,Euro Shopping Channel
+36,87.36,3/30/2005 0:00,3,2005,Reims Collectables
+28,72.55,4/3/2005 0:00,4,2005,Tekni Collectables Inc.
+43,62.19,5/10/2005 0:00,5,2005,L'ordine Souveniers
+48,52.64,2/17/2003 0:00,2,2003,Rovelli Gifts
+28,48.17,4/28/2003 0:00,4,2003,Salzburg Collectables
+21,41.71,6/16/2003 0:00,6,2003,Gift Ideas Corp.
+37,50.65,8/10/2003 0:00,8,2003,Mini Creations Ltd.
+34,49.16,10/6/2003 0:00,10,2003,"Toys of Finland, Co."
+40,41.71,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+45,51.15,11/8/2003 0:00,11,2003,Alpha Cognac
+28,52.14,11/14/2003 0:00,11,2003,"Double Decker Gift Stores, Ltd"
+29,41.71,11/26/2003 0:00,11,2003,Enaco Distributors
+48,44.69,1/9/2004 0:00,1,2004,"Men 'R' US Retailers, Ltd."
+31,45.69,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+32,57.61,5/8/2004 0:00,5,2004,Cambridge Collectables Co.
+21,57.11,6/24/2004 0:00,6,2004,Euro Shopping Channel
+32,58.6,7/21/2004 0:00,7,2004,Collectables For Less Inc.
+43,57.61,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+21,45.19,9/15/2004 0:00,9,2004,"Bavarian Collectables Imports, Co."
+34,53.63,10/14/2004 0:00,10,2004,"Classic Gift Ideas, Inc"
+34,43.7,11/1/2004 0:00,11,2004,giftsbymail.co.uk
+44,86.13,11/15/2004 0:00,11,2004,Land of Toys Inc.
+27,76.31,11/23/2004 0:00,11,2004,"Tokyo Collectables, Ltd"
+49,52.64,12/3/2004 0:00,12,2004,Auto-Moto Classics Inc.
+23,95.2,12/17/2004 0:00,12,2004,Souveniers And Things Co.
+25,64.97,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+50,87.15,3/1/2005 0:00,3,2005,Euro Shopping Channel
+34,40.22,3/30/2005 0:00,3,2005,Reims Collectables
+20,56.12,4/1/2005 0:00,4,2005,The Sharp Gifts Warehouse
+42,57.61,5/9/2005 0:00,5,2005,"Australian Collectables, Ltd"
+25,56.78,2/11/2003 0:00,2,2003,Danish Wholesale Imports
+50,43.68,4/16/2003 0:00,4,2003,"Dragon Souveniers, Ltd."
+32,64.97,6/12/2003 0:00,6,2003,"Stylish Desk Decors, Co."
+39,44.23,8/8/2003 0:00,8,2003,Mini Gifts Distributors Ltd.
+50,60.06,9/28/2003 0:00,9,2003,Euro Shopping Channel
+38,48.59,10/23/2003 0:00,10,2003,Scandinavian Gift Ideas
+40,50.23,11/7/2003 0:00,11,2003,CAF Imports
+28,64.43,11/14/2003 0:00,11,2003,Mini Creations Ltd.
+42,50.23,11/26/2003 0:00,11,2003,Enaco Distributors
+42,63.88,1/2/2004 0:00,1,2004,"Saveley & Henriot, Co."
+36,63.34,2/19/2004 0:00,2,2004,Collectable Mini Designs Co.
+24,49.69,3/20/2004 0:00,3,2004,giftsbymail.co.uk
+23,65.52,5/7/2004 0:00,5,2004,Land of Toys Inc.
+29,50.78,6/17/2004 0:00,6,2004,Quebec Home Shopping Network
+37,45.86,7/21/2004 0:00,7,2004,Petit Auto
+33,51.32,8/20/2004 0:00,8,2004,"Royal Canadian Collectables, Ltd."
+32,60.06,9/9/2004 0:00,9,2004,Amica Models & Co.
+35,59.51,10/14/2004 0:00,10,2004,"AV Stores, Co."
+40,55.69,10/29/2004 0:00,10,2004,La Rochelle Gifts
+37,86.74,11/10/2004 0:00,11,2004,Danish Wholesale Imports
+42,97.16,11/21/2004 0:00,11,2004,Classic Legends Inc.
+20,100.0,12/2/2004 0:00,12,2004,Euro Shopping Channel
+29,100.0,1/31/2005 0:00,1,2005,"Oulu Toy Supplies, Inc."
+43,100.0,3/1/2005 0:00,3,2005,Euro Shopping Channel
+34,62.24,3/28/2005 0:00,3,2005,Alpha Cognac
+47,65.52,5/6/2005 0:00,5,2005,Gifts4AllAges.com
