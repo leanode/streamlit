@@ -63,21 +63,21 @@ Question: {user_question}
 Answer in clear, plain English. Use column names where relevant.
 """
 
-try:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You're a helpful data analyst."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.3
-        )
-        
-        answer = response.choices[0].message.content
-        st.markdown("### 💡 Insight:")
-        st.write(answer)
+        try:
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": "You're a helpful data analyst."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.3
+            )
+            
+            answer = response.choices[0].message.content
+            st.markdown("### 💡 Insight:")
+            st.write(answer)
 
-except RateLimitError:
-    st.error("🚫 OpenAI Rate Limit Exceeded. Please wait and try again.")
-except Exception as e:
-    st.error(f"❌ Unexpected error: {e}")
+        except RateLimitError:
+            st.error("🚫 OpenAI Rate Limit Exceeded. Please wait and try again.")
+        except Exception as e:
+            st.error(f"❌ OpenAI Error: {e}")
