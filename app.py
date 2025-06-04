@@ -1,9 +1,11 @@
 import streamlit as st
 import pandas as pd
-import openai
+from openai import OpenAI
 
 # 🔐 Load OpenAI API key
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+# old code: openai.api_key = st.secrets["OPENAI_API_KEY"]
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+
 
 # 📄 Load preloaded CSV
 CSV_PATH = "data/sales_data_superstore.csv"  # Update if needed
@@ -61,7 +63,7 @@ Question: {user_question}
 Answer in clear, plain English. Use column names where relevant.
 """
 
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[
                 {"role": "system", "content": "You're a helpful data analyst."},
@@ -69,7 +71,7 @@ Answer in clear, plain English. Use column names where relevant.
             ],
             temperature=0.3
         )
-
-        answer = response['choices'][0]['message']['content']
+        
+        answer = response.choices[0].message.content
         st.markdown("### 💡 Insight:")
         st.write(answer)
