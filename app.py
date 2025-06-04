@@ -63,6 +63,7 @@ Question: {user_question}
 Answer in clear, plain English. Use column names where relevant.
 """
 
+try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
