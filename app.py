@@ -37,8 +37,8 @@ st.dataframe(df.head())
 
 # 💡 Example questions
 example_questions = [
-    "What are the most frequent values in each column?",
-    "Are there any missing values or unusual data points?",
+    "How many orders are there?",
+    "When is the most recent order?",
     "What trends or patterns can you find?",
     "Which column seems to have the most variation?",
     "Summarize this dataset for me.",
