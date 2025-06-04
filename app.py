@@ -52,7 +52,7 @@ user_question = st.text_input("❓ Ask a question about the data:", value=select
 if user_question:
     with st.spinner("🧠 Analyzing with OpenAI..."):
 
-        preview_csv = df.head(100).to_csv(index=False)
+        preview_csv = df.head(20).to_csv(index=False)
 
         prompt = f"""
 You are a helpful data analyst. Analyze the following data:
