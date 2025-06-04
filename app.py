@@ -5,7 +5,7 @@ from openai import RateLimitError
 
 # 🔐 Load OpenAI API key
 # old code: openai.api_key = st.secrets["OPENAI_API_KEY"]
-st.write("Sorry, this app is now on vacation.")
+st.title("Sorry, this app is now on vacation!")
 # client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 
