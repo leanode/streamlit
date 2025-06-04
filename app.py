@@ -42,7 +42,7 @@ example_questions = [
 ]
 
 with st.expander("💡 Click to use an example question"):
-    selected_example = st.radio("Try an example:", example_questions, index=-1)
+    selected_example = st.radio("Try an example:", example_questions)
 
 # Use example or custom input
 user_question = st.text_input("❓ Ask a question about the data:", value=selected_example or "")
