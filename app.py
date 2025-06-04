@@ -56,12 +56,20 @@ if user_question:
         preview_csv = df.head(1000).to_csv(index=False)
 
         prompt = f"""
-You are a helpful data analyst. Analyze the following data:
+You're a senior data analyst. Analyze the following table of data.
+
+Your job is to:
+1. Identify important patterns, correlations, or outliers
+2. Summarize trends across columns (e.g., sales by region, top categories)
+3. Point out missing values or data quality issues
+4. Suggest actionable insights
+
+Here are the first 1000 rows of the dataset (CSV format):
 
 {preview_csv}
 
 Question: {user_question}
-Answer in clear, plain English. Use column names where relevant.
+Answer clearly and precisely using column names.
 """
 
         try:
