@@ -28,7 +28,7 @@ Welcome! This app uses **OpenAI** to generate plain-English insights from a prel
 2. **Click an example question** or ask your own
 3. **Wait a few seconds** while OpenAI analyzes the data and returns insights
 
-> The AI analyzes only the **first 100 rows** to stay within processing limits.
+> The AI analyzes only the **first 9799 rows** to stay within processing limits.
 """)
 
 # 🧾 Show data preview
@@ -53,7 +53,7 @@ user_question = st.text_input("❓ Ask a question about the data:", value=select
 if user_question:
     with st.spinner("🧠 Analyzing with OpenAI..."):
 
-        preview_csv = df.head(20).to_csv(index=False)
+        preview_csv = df.head(9800).to_csv(index=False)
 
         prompt = f"""
 You are a helpful data analyst. Analyze the following data:
