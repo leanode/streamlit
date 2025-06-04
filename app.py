@@ -75,3 +75,8 @@ Answer in clear, plain English. Use column names where relevant.
         answer = response.choices[0].message.content
         st.markdown("### 💡 Insight:")
         st.write(answer)
+
+except RateLimitError:
+    st.error("🚫 OpenAI Rate Limit Exceeded. Please wait and try again.")
+except Exception as e:
+    st.error(f"❌ Unexpected error: {e}")
